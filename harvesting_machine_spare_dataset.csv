@@ -1,0 +1,1001 @@
+part_id,order_id,part_name_id,quantity,order_date,order_time,unit_price,total_price,part_size,part_category,warehouse_id,supplier_name,part_name
+1,381,radiator_cool_m,3,2023-07-09,09:54:57,440.59,1321.77,S,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+2,105,belt_drive_m,9,2023-07-25,17:47:12,395.4,3558.6,S,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+3,142,engine_filter_m,1,2023-02-02,12:08:39,1162.4,1162.4,L,Engine Components,WH02,HarvestTech Ltd,Engine Oil Filter
+4,380,chain_feed_l,9,2023-05-06,15:34:17,852.34,7671.06,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+5,280,engine_filter_m,6,2023-04-04,21:12:30,839.97,5039.82,M,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+6,158,sensor_temp_s,1,2023-02-27,13:01:38,334.86,334.86,S,Electrical,WH03,AgriParts Co,Temperature Sensor
+7,182,radiator_cool_m,7,2023-06-15,22:35:51,1130.48,7913.36,S,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+8,212,engine_filter_m,3,2023-06-09,12:05:40,1179.02,3537.06,M,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+9,137,blade_std_s,2,2023-11-18,13:55:40,1311.45,2622.9,M,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+10,236,sensor_temp_s,5,2023-04-28,08:17:11,353.81,1769.05,L,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+11,169,belt_drive_m,2,2023-11-17,10:09:45,542.94,1085.88,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+12,15,hyd_pump_l,5,2023-01-16,06:30:05,881.37,4406.85,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+13,306,bearing_axle_m,6,2023-08-21,11:25:14,668.68,4012.08,L,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+14,296,gearbox_hd_l,5,2023-09-06,01:36:57,1070.46,5352.3,S,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+15,187,bearing_axle_m,2,2023-06-07,12:01:19,944.15,1888.3,L,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+16,260,belt_drive_m,7,2023-07-01,11:52:33,618.54,4329.78,M,Transmission,WH03,HarvestTech Ltd,Drive Belt Medium
+17,99,bearing_axle_m,7,2023-12-17,06:20:10,932.88,6530.16,M,Chassis,WH02,AgriParts Co,Axle Bearing
+18,156,belt_drive_m,4,2023-11-25,15:39:06,1183.99,4735.96,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+19,239,chain_feed_l,8,2023-06-19,07:46:50,778.98,6231.84,L,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+20,146,radiator_cool_m,10,2023-08-28,12:12:13,162.75,1627.5,S,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+21,116,gearbox_hd_l,3,2023-08-23,00:53:21,93.17,279.51,M,Transmission,WH03,AgriParts Co,Heavy Duty Gearbox
+22,234,bearing_axle_m,10,2023-11-20,07:04:45,1084.56,10845.6,M,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+23,125,blade_std_s,1,2023-08-08,03:52:50,1173.17,1173.17,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+24,26,radiator_cool_m,4,2023-10-07,04:25:06,698.28,2793.12,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+25,387,chain_feed_l,10,2023-06-04,18:22:42,654.44,6544.4,L,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+26,381,chain_feed_l,8,2023-07-09,09:26:12,1133.87,9070.96,L,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+27,321,gearbox_hd_l,5,2023-06-10,16:00:54,139.29,696.45,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+28,172,sensor_temp_s,9,2023-09-17,02:56:01,229.1,2061.9,S,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+29,362,gearbox_hd_l,2,2023-11-27,15:06:17,626.21,1252.42,L,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+30,32,gearbox_hd_l,7,2023-01-04,14:10:49,1359.64,9517.48,L,Transmission,WH03,AgriParts Co,Heavy Duty Gearbox
+31,392,starter_motor_s,7,2023-12-08,17:21:58,33.7,235.9,M,Electrical,WH02,GreenAgro Supplies,Starter Motor
+32,215,radiator_cool_m,9,2023-11-29,21:57:49,1349.27,12143.43,M,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+33,224,chain_feed_l,1,2023-06-23,14:09:28,520.79,520.79,L,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+34,240,blade_std_s,10,2023-02-06,19:26:48,64.78,647.8,M,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+35,43,bearing_axle_m,3,2023-07-14,16:48:35,293.05,879.15,M,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+36,109,chain_feed_l,6,2023-10-18,12:17:16,1147.81,6886.86,M,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+37,130,hyd_pump_l,8,2023-03-12,00:42:20,1129.81,9038.48,S,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+38,333,hyd_pump_l,1,2023-02-05,01:07:47,1425.68,1425.68,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+39,123,blade_std_s,8,2023-05-15,04:09:53,856.86,6854.88,S,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+40,393,sensor_temp_s,3,2023-10-11,22:03:35,920.69,2762.07,L,Electrical,WH03,AgriParts Co,Temperature Sensor
+41,399,blade_std_s,5,2023-03-01,03:56:08,878.56,4392.8,M,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+42,204,gearbox_hd_l,2,2023-09-28,21:33:27,1043.66,2087.32,L,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+43,357,belt_drive_m,10,2023-05-03,04:24:26,1199.44,11994.4,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+44,273,bearing_axle_m,6,2023-05-08,02:30:38,771.29,4627.74,M,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+45,251,hyd_pump_l,7,2023-08-31,13:11:12,962.49,6737.43,M,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+46,223,blade_std_s,9,2023-02-02,23:40:56,423.37,3810.33,L,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+47,224,starter_motor_s,5,2023-06-23,11:44:05,1281.28,6406.4,S,Electrical,WH02,GreenAgro Supplies,Starter Motor
+48,125,chain_feed_l,10,2023-08-08,22:13:17,1010.58,10105.8,M,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+49,167,blade_std_s,8,2023-09-17,07:43:22,548.37,4386.96,M,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+50,306,belt_drive_m,9,2023-08-21,00:22:10,787.03,7083.27,S,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+51,369,bearing_axle_m,8,2023-11-15,20:12:48,1143.29,9146.32,L,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+52,230,engine_filter_m,2,2023-04-23,10:42:46,351.85,703.7,L,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+53,340,starter_motor_s,6,2023-10-19,17:13:51,841.37,5048.22,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+54,181,chain_feed_l,5,2023-11-03,11:09:49,395.82,1979.1,S,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+55,162,hyd_pump_l,9,2023-08-21,06:44:27,307.52,2767.68,L,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+56,371,starter_motor_s,9,2023-02-21,21:43:42,442.42,3981.78,S,Electrical,WH01,FieldMachinery Inc,Starter Motor
+57,117,sensor_temp_s,3,2023-03-15,11:00:18,45.87,137.61,L,Electrical,WH01,FieldMachinery Inc,Temperature Sensor
+58,24,engine_filter_m,9,2023-11-29,10:38:10,1053.69,9483.21,S,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+59,53,engine_filter_m,10,2023-07-13,10:21:08,717.36,7173.6,M,Engine Components,WH02,HarvestTech Ltd,Engine Oil Filter
+60,27,belt_drive_m,8,2023-08-03,04:09:13,1237.62,9900.96,M,Transmission,WH02,AgriParts Co,Drive Belt Medium
+61,296,engine_filter_m,3,2023-09-06,05:25:55,1221.43,3664.29,M,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+62,61,radiator_cool_m,7,2023-04-09,22:04:31,904.29,6330.03,L,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+63,231,chain_feed_l,5,2023-01-04,21:25:39,1485.3,7426.5,M,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+64,313,hyd_pump_l,4,2023-03-21,22:46:27,336.26,1345.04,L,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+65,123,blade_std_s,9,2023-05-15,02:43:58,255.89,2303.01,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+66,150,engine_filter_m,4,2023-01-06,10:29:22,1067.76,4271.04,L,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+67,352,gearbox_hd_l,5,2023-06-11,22:45:27,894.94,4474.7,S,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+68,279,gearbox_hd_l,3,2023-08-05,09:40:16,1244.28,3732.84,S,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+69,158,starter_motor_s,10,2023-02-27,10:30:28,672.75,6727.5,M,Electrical,WH03,FieldMachinery Inc,Starter Motor
+70,359,bearing_axle_m,5,2023-07-22,18:13:17,821.47,4107.35,M,Chassis,WH01,AgriParts Co,Axle Bearing
+71,222,sensor_temp_s,10,2023-04-26,09:06:56,63.15,631.5,S,Electrical,WH03,AgriParts Co,Temperature Sensor
+72,392,belt_drive_m,10,2023-12-08,01:27:53,1150.59,11505.9,S,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+73,143,blade_std_s,10,2023-07-17,15:52:12,961.31,9613.1,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+74,179,bearing_axle_m,6,2023-09-29,11:41:21,1013.45,6080.7,S,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+75,356,chain_feed_l,5,2023-06-10,14:34:48,1225.01,6125.05,L,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+76,46,sensor_temp_s,5,2023-06-26,11:46:12,195.98,979.9,M,Electrical,WH03,AgriParts Co,Temperature Sensor
+77,337,radiator_cool_m,8,2023-05-01,15:02:45,104.95,839.6,L,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+78,321,chain_feed_l,1,2023-06-10,07:24:40,418.91,418.91,S,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+79,358,chain_feed_l,2,2023-05-16,01:03:03,1460.39,2920.78,L,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+80,160,radiator_cool_m,1,2023-08-11,20:06:24,626.79,626.79,S,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+81,61,blade_std_s,8,2023-04-09,10:37:34,775.59,6204.72,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+82,242,gearbox_hd_l,8,2023-05-02,20:04:15,238.35,1906.8,S,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+83,36,belt_drive_m,7,2023-06-24,12:22:28,1403.02,9821.14,L,Transmission,WH02,AgriParts Co,Drive Belt Medium
+84,145,belt_drive_m,10,2023-11-02,21:06:51,1498.38,14983.8,M,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+85,276,chain_feed_l,6,2023-10-02,12:06:13,839.08,5034.48,L,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+86,165,gearbox_hd_l,4,2023-09-14,20:49:06,589.88,2359.52,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+87,382,chain_feed_l,7,2023-05-26,14:03:24,1482.91,10380.37,L,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+88,19,blade_std_s,9,2023-09-16,21:29:16,514.69,4632.21,S,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+89,270,chain_feed_l,1,2023-07-26,05:14:54,629.72,629.72,L,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+90,241,belt_drive_m,6,2023-09-21,22:41:31,1046.74,6280.44,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+91,346,radiator_cool_m,7,2023-02-11,11:31:45,949.53,6646.71,M,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+92,317,hyd_pump_l,4,2023-01-30,22:58:47,1034.49,4137.96,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+93,223,hyd_pump_l,2,2023-02-02,16:09:13,270.39,540.78,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+94,167,engine_filter_m,5,2023-09-17,13:03:04,577.89,2889.45,S,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+95,290,blade_std_s,3,2023-10-04,06:22:26,141.48,424.44,M,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+96,255,starter_motor_s,3,2023-04-08,08:27:13,705.2,2115.6,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+97,342,engine_filter_m,8,2023-10-24,10:28:20,1024.48,8195.84,S,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+98,177,starter_motor_s,5,2023-03-24,23:15:46,1443.99,7219.95,L,Electrical,WH02,GreenAgro Supplies,Starter Motor
+99,155,gearbox_hd_l,7,2023-05-17,17:35:35,182.31,1276.17,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+100,295,belt_drive_m,5,2023-07-28,00:47:55,1467.47,7337.35,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+101,5,starter_motor_s,1,2023-05-06,22:04:42,1124.13,1124.13,M,Electrical,WH01,FieldMachinery Inc,Starter Motor
+102,113,gearbox_hd_l,10,2023-09-13,09:07:30,1024.7,10247.0,L,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+103,322,hyd_pump_l,1,2023-01-30,11:14:52,1188.2,1188.2,S,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+104,375,blade_std_s,2,2023-09-17,10:44:40,506.91,1013.82,M,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+105,68,radiator_cool_m,6,2023-02-10,19:19:39,765.15,4590.9,M,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+106,247,belt_drive_m,6,2023-10-04,04:11:35,715.79,4294.74,S,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+107,347,bearing_axle_m,9,2023-08-03,13:19:02,158.2,1423.8,M,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+108,275,hyd_pump_l,8,2023-04-08,13:25:11,1017.42,8139.36,L,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+109,327,sensor_temp_s,2,2023-09-29,08:30:47,720.43,1440.86,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+110,313,gearbox_hd_l,2,2023-03-21,23:08:03,1240.19,2480.38,L,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+111,60,blade_std_s,1,2023-10-23,01:21:17,473.94,473.94,M,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+112,121,radiator_cool_m,3,2023-10-15,14:09:00,694.12,2082.36,L,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+113,301,blade_std_s,7,2023-03-26,23:50:41,171.06,1197.42,M,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+114,144,engine_filter_m,6,2023-07-15,07:54:37,678.99,4073.94,S,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+115,352,sensor_temp_s,9,2023-06-11,23:28:38,554.04,4986.36,M,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+116,63,chain_feed_l,2,2023-02-05,07:43:21,971.51,1943.02,L,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+117,171,gearbox_hd_l,3,2023-11-24,20:33:20,327.68,983.04,L,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+118,120,sensor_temp_s,3,2023-05-07,21:41:56,29.18,87.54,S,Electrical,WH01,FieldMachinery Inc,Temperature Sensor
+119,90,hyd_pump_l,1,2023-05-06,04:47:55,46.92,46.92,S,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+120,9,blade_std_s,5,2023-12-13,01:54:28,211.97,1059.85,M,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+121,382,hyd_pump_l,8,2023-05-26,16:19:16,1172.58,9380.64,L,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+122,232,radiator_cool_m,4,2023-02-06,22:23:43,88.96,355.84,L,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+123,235,engine_filter_m,1,2023-01-31,17:26:21,1274.77,1274.77,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+124,252,chain_feed_l,2,2023-05-05,02:56:29,500.11,1000.22,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+125,141,starter_motor_s,10,2023-11-02,19:57:54,1075.43,10754.3,M,Electrical,WH03,FieldMachinery Inc,Starter Motor
+126,233,radiator_cool_m,10,2023-12-29,15:39:47,171.29,1712.9,L,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+127,221,chain_feed_l,4,2023-05-07,15:03:59,524.92,2099.68,M,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+128,374,hyd_pump_l,6,2023-04-20,15:32:16,485.97,2915.82,M,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+129,352,chain_feed_l,2,2023-06-11,03:19:17,1251.86,2503.72,S,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+130,382,sensor_temp_s,3,2023-05-26,20:15:24,113.47,340.41,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+131,344,hyd_pump_l,7,2023-01-21,12:52:26,1313.57,9194.99,M,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+132,148,starter_motor_s,5,2023-05-09,12:48:10,177.81,889.05,L,Electrical,WH01,HarvestTech Ltd,Starter Motor
+133,337,chain_feed_l,4,2023-05-01,03:56:24,541.42,2165.68,L,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+134,391,belt_drive_m,10,2023-01-05,08:14:03,1215.65,12156.5,L,Transmission,WH03,AgriParts Co,Drive Belt Medium
+135,312,belt_drive_m,1,2023-09-07,06:34:07,428.07,428.07,M,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+136,4,blade_std_s,3,2023-05-21,20:37:08,994.58,2983.74,S,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+137,47,radiator_cool_m,4,2023-11-06,13:41:48,644.25,2577.0,M,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+138,160,sensor_temp_s,10,2023-08-11,21:42:28,150.31,1503.1,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+139,387,starter_motor_s,1,2023-06-04,02:58:13,426.35,426.35,L,Electrical,WH02,GreenAgro Supplies,Starter Motor
+140,311,chain_feed_l,7,2023-12-05,09:56:44,342.96,2400.72,L,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+141,221,hyd_pump_l,5,2023-05-07,21:35:43,742.78,3713.9,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+142,113,bearing_axle_m,10,2023-09-13,01:59:40,36.34,363.4,M,Chassis,WH01,HarvestTech Ltd,Axle Bearing
+143,392,belt_drive_m,5,2023-12-08,11:56:47,201.98,1009.9,M,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+144,90,blade_std_s,7,2023-05-06,19:23:26,1062.92,7440.44,L,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+145,37,bearing_axle_m,1,2023-05-23,15:52:56,52.64,52.64,S,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+146,294,bearing_axle_m,7,2023-03-27,10:32:27,194.88,1364.16,S,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+147,317,chain_feed_l,6,2023-01-30,03:12:31,669.15,4014.9,S,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+148,302,bearing_axle_m,9,2023-07-14,02:51:48,608.76,5478.84,M,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+149,114,sensor_temp_s,3,2023-07-22,02:46:51,777.96,2333.88,S,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+150,398,sensor_temp_s,6,2023-05-16,23:29:59,1227.18,7363.08,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+151,132,gearbox_hd_l,3,2023-09-10,21:55:57,250.48,751.44,L,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+152,396,chain_feed_l,8,2023-02-23,20:31:29,1145.82,9166.56,M,Feeding System,WH03,FieldMachinery Inc,Feed Chain Assembly
+153,322,sensor_temp_s,3,2023-01-30,16:00:40,125.72,377.16,M,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+154,141,starter_motor_s,1,2023-11-02,12:48:49,773.32,773.32,M,Electrical,WH02,GreenAgro Supplies,Starter Motor
+155,20,engine_filter_m,6,2023-11-05,10:27:07,138.18,829.08,S,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+156,237,starter_motor_s,9,2023-02-04,01:29:36,688.36,6195.24,L,Electrical,WH03,HarvestTech Ltd,Starter Motor
+157,165,starter_motor_s,8,2023-09-14,18:15:15,247.52,1980.16,S,Electrical,WH02,AgriParts Co,Starter Motor
+158,176,hyd_pump_l,9,2023-07-11,23:31:29,279.52,2515.68,S,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+159,225,radiator_cool_m,9,2023-01-11,22:12:08,259.15,2332.35,M,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+160,210,sensor_temp_s,10,2023-04-13,01:54:23,1189.11,11891.1,L,Electrical,WH02,AgriParts Co,Temperature Sensor
+161,169,hyd_pump_l,9,2023-11-17,14:04:27,444.12,3997.08,L,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+162,171,hyd_pump_l,10,2023-11-24,05:08:57,1377.2,13772.0,M,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+163,67,starter_motor_s,2,2023-05-29,11:16:17,849.41,1698.82,L,Electrical,WH02,HarvestTech Ltd,Starter Motor
+164,344,radiator_cool_m,2,2023-01-21,23:31:15,1013.92,2027.84,L,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+165,186,belt_drive_m,3,2023-07-05,07:47:54,529.06,1587.18,M,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+166,71,blade_std_s,2,2023-07-14,10:46:10,1270.53,2541.06,S,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+167,339,sensor_temp_s,10,2023-03-03,04:46:16,905.94,9059.4,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+168,355,starter_motor_s,3,2023-12-09,15:56:06,89.45,268.35,M,Electrical,WH03,HarvestTech Ltd,Starter Motor
+169,228,starter_motor_s,5,2023-04-28,16:20:41,370.15,1850.75,S,Electrical,WH02,GreenAgro Supplies,Starter Motor
+170,100,sensor_temp_s,10,2023-06-16,16:02:29,705.98,7059.8,M,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+171,83,gearbox_hd_l,10,2023-12-16,05:02:20,1312.68,13126.8,S,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+172,191,radiator_cool_m,2,2023-10-18,18:47:01,1280.47,2560.94,M,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+173,140,chain_feed_l,9,2023-08-05,05:21:53,1250.79,11257.11,S,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+174,179,engine_filter_m,7,2023-09-29,01:56:20,609.77,4268.39,M,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+175,42,sensor_temp_s,4,2023-02-17,01:01:34,495.06,1980.24,S,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+176,75,blade_std_s,1,2023-07-06,10:26:41,1378.16,1378.16,M,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+177,389,chain_feed_l,8,2023-12-01,22:24:14,32.75,262.0,S,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+178,111,blade_std_s,9,2023-04-19,22:10:07,803.46,7231.14,S,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+179,155,hyd_pump_l,1,2023-05-17,08:40:52,644.24,644.24,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+180,57,chain_feed_l,10,2023-11-18,19:31:01,49.24,492.4,L,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+181,368,blade_std_s,5,2023-08-23,15:37:41,27.31,136.55,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+182,96,hyd_pump_l,9,2023-12-19,13:07:45,124.83,1123.47,L,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+183,200,chain_feed_l,1,2023-09-01,23:08:38,595.65,595.65,M,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+184,183,hyd_pump_l,6,2023-09-08,08:46:44,1106.09,6636.54,L,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+185,69,engine_filter_m,6,2023-04-30,19:52:47,524.36,3146.16,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+186,357,chain_feed_l,3,2023-05-03,04:54:35,118.07,354.21,M,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+187,104,engine_filter_m,4,2023-06-11,01:31:32,490.5,1962.0,M,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+188,279,chain_feed_l,5,2023-08-05,01:19:59,1136.1,5680.5,S,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+189,400,engine_filter_m,6,2023-02-24,09:56:51,208.6,1251.6,M,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+190,381,chain_feed_l,7,2023-07-09,12:20:38,1461.24,10228.68,M,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+191,189,radiator_cool_m,5,2023-01-30,03:00:28,1097.44,5487.2,S,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+192,280,belt_drive_m,6,2023-04-04,03:44:07,143.1,858.6,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+193,229,starter_motor_s,7,2023-10-29,06:04:02,1042.4,7296.8,M,Electrical,WH02,AgriParts Co,Starter Motor
+194,373,sensor_temp_s,10,2023-10-03,15:50:08,429.97,4299.7,S,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+195,187,radiator_cool_m,3,2023-06-07,01:08:01,235.6,706.8,L,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+196,18,blade_std_s,2,2023-04-30,08:35:32,1173.31,2346.62,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+197,291,engine_filter_m,10,2023-01-08,05:35:11,1026.62,10266.2,M,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+198,391,hyd_pump_l,10,2023-01-05,05:00:47,805.95,8059.5,M,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+199,128,hyd_pump_l,1,2023-07-05,06:46:25,761.09,761.09,M,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+200,135,belt_drive_m,8,2023-02-26,07:48:44,1494.64,11957.12,M,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+201,103,hyd_pump_l,3,2023-01-17,02:41:46,691.76,2075.28,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+202,350,sensor_temp_s,6,2023-10-17,02:21:51,836.25,5017.5,M,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+203,365,blade_std_s,6,2023-06-11,18:31:23,355.76,2134.56,S,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+204,253,engine_filter_m,6,2023-08-31,20:10:16,869.11,5214.66,M,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+205,314,hyd_pump_l,2,2023-04-08,11:15:39,612.29,1224.58,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+206,270,bearing_axle_m,7,2023-07-26,20:55:53,133.78,936.46,M,Chassis,WH03,AgriParts Co,Axle Bearing
+207,231,chain_feed_l,9,2023-01-04,12:32:36,214.29,1928.61,L,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+208,394,blade_std_s,7,2023-06-03,18:18:31,1368.3,9578.1,S,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+209,156,blade_std_s,3,2023-11-25,11:44:51,1403.74,4211.22,S,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+210,41,belt_drive_m,4,2023-02-22,23:07:18,1435.62,5742.48,M,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+211,315,radiator_cool_m,2,2023-06-01,18:17:53,970.46,1940.92,L,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+212,88,starter_motor_s,10,2023-03-29,12:17:32,1267.73,12677.3,L,Electrical,WH01,AgriParts Co,Starter Motor
+213,42,engine_filter_m,10,2023-02-17,09:38:08,985.42,9854.2,L,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+214,255,radiator_cool_m,5,2023-04-08,23:22:16,1436.06,7180.3,M,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+215,153,chain_feed_l,2,2023-12-16,02:10:52,258.17,516.34,M,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+216,105,sensor_temp_s,10,2023-07-25,05:13:50,486.06,4860.6,L,Electrical,WH02,FieldMachinery Inc,Temperature Sensor
+217,205,blade_std_s,6,2023-11-07,18:44:59,853.44,5120.64,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+218,63,belt_drive_m,8,2023-02-05,09:01:35,232.79,1862.32,S,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+219,316,bearing_axle_m,4,2023-04-22,05:48:52,1224.88,4899.52,L,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+220,98,blade_std_s,8,2023-04-23,18:44:26,713.55,5708.4,M,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+221,47,bearing_axle_m,9,2023-11-06,16:38:50,1450.86,13057.74,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+222,25,engine_filter_m,5,2023-12-26,18:01:06,906.34,4531.7,L,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+223,147,radiator_cool_m,1,2023-09-28,03:54:49,660.62,660.62,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+224,392,bearing_axle_m,6,2023-12-08,01:38:50,615.86,3695.16,L,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+225,186,radiator_cool_m,5,2023-07-05,02:40:37,594.86,2974.3,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+226,320,starter_motor_s,2,2023-02-01,04:41:04,1463.25,2926.5,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+227,286,sensor_temp_s,3,2023-10-09,07:14:50,913.63,2740.89,M,Electrical,WH03,AgriParts Co,Temperature Sensor
+228,24,engine_filter_m,3,2023-11-29,12:07:32,1210.85,3632.55,L,Engine Components,WH02,HarvestTech Ltd,Engine Oil Filter
+229,311,radiator_cool_m,3,2023-12-05,11:56:27,1398.77,4196.31,M,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+230,316,belt_drive_m,10,2023-04-22,12:14:49,773.29,7732.9,L,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+231,363,starter_motor_s,5,2023-06-03,17:17:25,1228.23,6141.15,M,Electrical,WH02,AgriParts Co,Starter Motor
+232,214,starter_motor_s,5,2023-12-10,22:54:38,64.3,321.5,M,Electrical,WH02,HarvestTech Ltd,Starter Motor
+233,370,engine_filter_m,10,2023-10-16,17:29:33,276.51,2765.1,L,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+234,76,gearbox_hd_l,1,2023-03-25,20:50:47,1423.6,1423.6,S,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+235,226,sensor_temp_s,7,2023-10-29,05:30:48,634.12,4438.84,S,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+236,377,engine_filter_m,3,2023-03-09,18:53:04,330.83,992.49,M,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+237,270,bearing_axle_m,6,2023-07-26,06:18:19,703.0,4218.0,L,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+238,347,belt_drive_m,10,2023-08-03,17:37:42,308.59,3085.9,S,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+239,116,belt_drive_m,5,2023-08-23,07:32:48,1043.1,5215.5,M,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+240,179,radiator_cool_m,5,2023-09-29,10:28:41,204.76,1023.8,L,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+241,203,sensor_temp_s,3,2023-05-16,10:34:30,87.05,261.15,L,Electrical,WH01,FieldMachinery Inc,Temperature Sensor
+242,227,belt_drive_m,8,2023-10-11,07:47:27,323.05,2584.4,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+243,71,hyd_pump_l,10,2023-07-14,21:21:57,377.94,3779.4,S,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+244,327,gearbox_hd_l,1,2023-09-29,03:38:53,634.62,634.62,L,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+245,349,blade_std_s,1,2023-10-26,20:02:15,1467.42,1467.42,S,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+246,245,gearbox_hd_l,5,2023-09-06,11:41:36,445.99,2229.95,S,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+247,274,engine_filter_m,3,2023-04-09,15:12:53,1326.31,3978.93,S,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+248,254,blade_std_s,5,2023-07-28,01:21:50,38.67,193.35,L,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+249,172,belt_drive_m,8,2023-09-17,23:20:58,826.37,6610.96,M,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+250,140,gearbox_hd_l,2,2023-08-05,12:02:23,264.68,529.36,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+251,368,blade_std_s,1,2023-08-23,12:16:25,1191.38,1191.38,L,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+252,90,starter_motor_s,7,2023-05-06,15:34:19,785.04,5495.28,S,Electrical,WH02,AgriParts Co,Starter Motor
+253,95,blade_std_s,8,2023-11-24,11:46:55,1405.34,11242.72,S,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+254,121,chain_feed_l,5,2023-10-15,12:00:04,470.37,2351.85,L,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+255,134,sensor_temp_s,4,2023-01-25,02:15:42,1009.98,4039.92,M,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+256,208,radiator_cool_m,5,2023-10-04,04:16:29,967.1,4835.5,M,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+257,113,blade_std_s,8,2023-09-13,05:34:38,696.09,5568.72,L,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+258,360,radiator_cool_m,8,2023-03-09,19:34:13,1207.94,9663.52,S,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+259,270,chain_feed_l,9,2023-07-26,13:10:19,140.2,1261.8,L,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+260,281,radiator_cool_m,4,2023-05-23,20:51:05,816.57,3266.28,S,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+261,60,gearbox_hd_l,10,2023-10-23,17:47:51,159.14,1591.4,L,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+262,233,blade_std_s,9,2023-12-29,15:07:30,698.78,6289.02,S,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+263,345,belt_drive_m,1,2023-11-14,14:24:57,400.32,400.32,S,Transmission,WH03,HarvestTech Ltd,Drive Belt Medium
+264,297,hyd_pump_l,1,2023-09-04,15:25:34,533.18,533.18,S,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+265,36,chain_feed_l,1,2023-06-24,10:27:09,628.08,628.08,S,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+266,192,bearing_axle_m,8,2023-02-10,13:44:39,579.08,4632.64,L,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+267,335,sensor_temp_s,2,2023-02-04,06:29:52,1489.45,2978.9,M,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+268,373,gearbox_hd_l,1,2023-10-03,00:49:39,1468.27,1468.27,M,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+269,273,bearing_axle_m,4,2023-05-08,09:00:41,704.42,2817.68,S,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+270,372,hyd_pump_l,1,2023-02-07,15:15:50,932.01,932.01,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+271,35,hyd_pump_l,10,2023-08-05,01:13:20,683.5,6835.0,L,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+272,126,engine_filter_m,7,2023-10-26,15:58:55,370.65,2594.55,S,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+273,258,belt_drive_m,4,2023-12-04,20:58:31,495.38,1981.52,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+274,122,belt_drive_m,3,2023-10-03,18:58:41,351.04,1053.12,M,Transmission,WH02,AgriParts Co,Drive Belt Medium
+275,286,starter_motor_s,3,2023-10-09,22:47:30,1026.16,3078.48,L,Electrical,WH02,AgriParts Co,Starter Motor
+276,177,bearing_axle_m,9,2023-03-24,11:36:17,1052.05,9468.45,M,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+277,193,blade_std_s,9,2023-02-13,17:14:25,380.43,3423.87,S,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+278,238,engine_filter_m,9,2023-01-17,15:01:30,1452.48,13072.32,L,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+279,199,gearbox_hd_l,5,2023-12-04,07:24:11,512.14,2560.7,S,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+280,48,radiator_cool_m,4,2023-05-16,01:52:35,420.98,1683.92,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+281,38,gearbox_hd_l,10,2023-03-21,20:20:49,345.1,3451.0,S,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+282,8,gearbox_hd_l,4,2023-02-22,04:16:16,1126.65,4506.6,M,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+283,204,gearbox_hd_l,9,2023-09-28,11:42:34,1168.88,10519.92,M,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+284,158,belt_drive_m,6,2023-02-27,18:40:15,1327.15,7962.9,M,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+285,390,sensor_temp_s,4,2023-09-28,13:29:49,486.56,1946.24,S,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+286,380,blade_std_s,1,2023-05-06,09:29:40,841.13,841.13,L,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+287,152,blade_std_s,4,2023-02-28,12:00:36,364.28,1457.12,L,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+288,282,sensor_temp_s,5,2023-08-25,17:47:24,1450.6,7253.0,L,Electrical,WH03,GreenAgro Supplies,Temperature Sensor
+289,236,blade_std_s,6,2023-04-28,06:09:45,231.44,1388.64,L,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+290,278,engine_filter_m,9,2023-03-13,01:13:53,1262.63,11363.67,S,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+291,392,engine_filter_m,7,2023-12-08,05:00:21,1267.75,8874.25,S,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+292,5,gearbox_hd_l,9,2023-05-06,16:36:10,575.47,5179.23,L,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+293,338,chain_feed_l,1,2023-07-26,00:14:26,810.01,810.01,M,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+294,272,belt_drive_m,9,2023-02-25,10:26:16,50.29,452.61,L,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+295,92,hyd_pump_l,2,2023-08-25,19:05:32,244.62,489.24,S,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+296,182,belt_drive_m,7,2023-06-15,02:52:37,575.25,4026.75,M,Transmission,WH02,HarvestTech Ltd,Drive Belt Medium
+297,357,gearbox_hd_l,5,2023-05-03,02:56:06,989.26,4946.3,L,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+298,208,bearing_axle_m,7,2023-10-04,20:07:23,727.11,5089.77,L,Chassis,WH01,HarvestTech Ltd,Axle Bearing
+299,43,chain_feed_l,7,2023-07-14,23:28:49,1181.96,8273.72,L,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+300,118,gearbox_hd_l,10,2023-05-16,17:18:44,424.87,4248.7,S,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+301,279,starter_motor_s,1,2023-08-05,06:31:48,1394.93,1394.93,M,Electrical,WH01,HarvestTech Ltd,Starter Motor
+302,301,blade_std_s,7,2023-03-26,02:48:04,466.43,3265.01,L,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+303,347,radiator_cool_m,6,2023-08-03,13:58:31,1139.52,6837.12,S,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+304,257,sensor_temp_s,1,2023-02-19,03:33:23,669.71,669.71,S,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+305,397,sensor_temp_s,1,2023-03-10,23:05:15,428.16,428.16,M,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+306,183,radiator_cool_m,7,2023-09-08,15:43:23,298.96,2092.72,L,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+307,44,starter_motor_s,5,2023-02-19,08:58:22,1076.84,5384.2,S,Electrical,WH02,HarvestTech Ltd,Starter Motor
+308,195,blade_std_s,7,2023-02-05,11:31:47,557.03,3899.21,S,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+309,228,sensor_temp_s,5,2023-04-28,03:43:19,220.45,1102.25,S,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+310,286,radiator_cool_m,9,2023-10-09,14:51:23,177.36,1596.24,S,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+311,306,starter_motor_s,6,2023-08-21,14:01:33,43.2,259.2,M,Electrical,WH02,AgriParts Co,Starter Motor
+312,372,radiator_cool_m,4,2023-02-07,20:49:27,793.63,3174.52,L,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+313,72,belt_drive_m,5,2023-05-23,09:46:20,752.36,3761.8,S,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+314,142,bearing_axle_m,5,2023-02-02,17:37:49,1179.43,5897.15,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+315,370,chain_feed_l,10,2023-10-16,22:27:08,313.43,3134.3,S,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+316,4,bearing_axle_m,6,2023-05-21,22:34:49,585.34,3512.04,M,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+317,221,starter_motor_s,3,2023-05-07,10:56:18,497.98,1493.94,L,Electrical,WH01,GreenAgro Supplies,Starter Motor
+318,161,blade_std_s,7,2023-03-22,11:37:10,454.89,3184.23,L,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+319,295,gearbox_hd_l,6,2023-07-28,13:41:30,438.44,2630.64,M,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+320,289,gearbox_hd_l,10,2023-11-30,19:51:56,290.39,2903.9,L,Transmission,WH01,GreenAgro Supplies,Heavy Duty Gearbox
+321,363,gearbox_hd_l,8,2023-06-03,10:36:25,1251.14,10009.12,S,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+322,72,belt_drive_m,4,2023-05-23,09:11:59,996.53,3986.12,L,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+323,38,chain_feed_l,10,2023-03-21,17:26:54,883.81,8838.1,L,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+324,279,engine_filter_m,6,2023-08-05,19:32:53,900.88,5405.28,S,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+325,337,sensor_temp_s,3,2023-05-01,23:33:23,928.7,2786.1,L,Electrical,WH03,GreenAgro Supplies,Temperature Sensor
+326,386,sensor_temp_s,7,2023-12-27,03:51:26,40.56,283.92,M,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+327,229,sensor_temp_s,7,2023-10-29,16:51:34,1164.2,8149.4,L,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+328,177,engine_filter_m,8,2023-03-24,03:48:23,460.76,3686.08,S,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+329,179,belt_drive_m,6,2023-09-29,16:34:41,1181.8,7090.8,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+330,244,hyd_pump_l,8,2023-12-09,16:28:23,495.39,3963.12,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+331,12,sensor_temp_s,2,2023-10-30,05:59:02,1396.64,2793.28,L,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+332,283,blade_std_s,6,2023-05-08,20:23:00,653.89,3923.34,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+333,323,blade_std_s,3,2023-01-26,23:19:08,994.53,2983.59,M,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+334,231,starter_motor_s,7,2023-01-04,14:09:25,31.56,220.92,S,Electrical,WH01,FieldMachinery Inc,Starter Motor
+335,386,hyd_pump_l,10,2023-12-27,03:42:16,1204.27,12042.7,L,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+336,167,gearbox_hd_l,8,2023-09-17,04:08:56,411.97,3295.76,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+337,306,bearing_axle_m,10,2023-08-21,14:17:31,890.83,8908.3,M,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+338,317,blade_std_s,5,2023-01-30,22:22:21,895.5,4477.5,L,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+339,61,gearbox_hd_l,5,2023-04-09,04:15:28,294.99,1474.95,L,Transmission,WH01,GreenAgro Supplies,Heavy Duty Gearbox
+340,215,starter_motor_s,3,2023-11-29,20:55:40,590.97,1772.91,S,Electrical,WH02,HarvestTech Ltd,Starter Motor
+341,285,blade_std_s,8,2023-08-15,10:30:58,231.94,1855.52,M,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+342,184,engine_filter_m,8,2023-01-10,04:58:15,312.81,2502.48,M,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+343,210,chain_feed_l,7,2023-04-13,16:09:36,745.83,5220.81,S,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+344,390,gearbox_hd_l,5,2023-09-28,01:11:25,430.41,2152.05,L,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+345,400,chain_feed_l,10,2023-02-24,18:02:01,835.85,8358.5,S,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+346,138,radiator_cool_m,6,2023-03-23,19:44:06,1238.35,7430.1,S,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+347,280,gearbox_hd_l,7,2023-04-04,03:43:43,1110.58,7774.06,L,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+348,17,chain_feed_l,5,2023-04-22,12:41:28,1296.74,6483.7,S,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+349,398,gearbox_hd_l,4,2023-05-16,21:24:20,1041.47,4165.88,L,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+350,85,starter_motor_s,3,2023-02-06,07:31:22,1224.96,3674.88,S,Electrical,WH03,FieldMachinery Inc,Starter Motor
+351,273,belt_drive_m,10,2023-05-08,19:36:57,273.36,2733.6,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+352,294,belt_drive_m,9,2023-03-27,03:28:01,224.99,2024.91,M,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+353,336,blade_std_s,3,2023-12-12,09:05:25,240.71,722.13,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+354,251,blade_std_s,10,2023-08-31,23:01:30,421.36,4213.6,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+355,39,hyd_pump_l,7,2023-04-21,18:46:22,1130.96,7916.72,L,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+356,250,sensor_temp_s,10,2023-10-23,00:05:24,1306.64,13066.4,L,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+357,326,sensor_temp_s,2,2023-09-15,19:27:28,611.63,1223.26,M,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+358,138,sensor_temp_s,5,2023-03-23,12:17:50,832.28,4161.4,S,Electrical,WH03,GreenAgro Supplies,Temperature Sensor
+359,176,engine_filter_m,1,2023-07-11,03:37:31,948.61,948.61,M,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+360,81,chain_feed_l,8,2023-05-17,00:01:28,1487.96,11903.68,M,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+361,333,belt_drive_m,3,2023-02-05,09:58:36,162.68,488.04,M,Transmission,WH02,AgriParts Co,Drive Belt Medium
+362,191,blade_std_s,1,2023-10-18,14:25:49,947.77,947.77,L,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+363,220,hyd_pump_l,2,2023-03-03,00:02:22,339.8,679.6,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+364,266,chain_feed_l,1,2023-12-01,00:17:36,1051.01,1051.01,S,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+365,245,hyd_pump_l,4,2023-09-06,13:56:49,156.76,627.04,S,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+366,189,belt_drive_m,3,2023-01-30,13:56:04,1165.85,3497.55,S,Transmission,WH03,HarvestTech Ltd,Drive Belt Medium
+367,36,radiator_cool_m,10,2023-06-24,00:18:30,925.22,9252.2,S,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+368,370,gearbox_hd_l,3,2023-10-16,14:59:23,933.71,2801.13,M,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+369,52,blade_std_s,2,2023-03-05,21:27:56,1101.76,2203.52,M,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+370,72,gearbox_hd_l,5,2023-05-23,23:28:11,149.27,746.35,L,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+371,399,engine_filter_m,5,2023-03-01,07:28:48,788.68,3943.4,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+372,152,engine_filter_m,4,2023-02-28,18:01:05,594.18,2376.72,S,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+373,271,engine_filter_m,6,2023-06-23,11:31:20,219.67,1318.02,L,Engine Components,WH02,FieldMachinery Inc,Engine Oil Filter
+374,280,blade_std_s,8,2023-04-04,02:39:27,49.62,396.96,S,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+375,111,engine_filter_m,1,2023-04-19,14:29:23,772.25,772.25,L,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+376,217,bearing_axle_m,2,2023-08-13,23:19:16,816.43,1632.86,L,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+377,43,belt_drive_m,2,2023-07-14,18:36:57,1383.36,2766.72,S,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+378,201,starter_motor_s,2,2023-10-09,11:17:34,1055.55,2111.1,L,Electrical,WH01,AgriParts Co,Starter Motor
+379,126,hyd_pump_l,7,2023-10-26,04:13:22,693.72,4856.04,L,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+380,342,blade_std_s,2,2023-10-24,00:27:40,1069.15,2138.3,L,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+381,255,sensor_temp_s,9,2023-04-08,18:49:53,1179.91,10619.19,L,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+382,191,blade_std_s,5,2023-10-18,04:17:53,1162.86,5814.3,S,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+383,140,radiator_cool_m,2,2023-08-05,09:34:25,1075.68,2151.36,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+384,255,chain_feed_l,9,2023-04-08,13:06:42,106.77,960.93,L,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+385,81,belt_drive_m,2,2023-05-17,20:53:43,1019.33,2038.66,S,Transmission,WH01,AgriParts Co,Drive Belt Medium
+386,23,engine_filter_m,4,2023-04-12,01:40:26,720.85,2883.4,M,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+387,19,radiator_cool_m,7,2023-09-16,08:10:27,499.66,3497.62,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+388,139,hyd_pump_l,10,2023-12-15,13:34:24,201.12,2011.2,L,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+389,115,radiator_cool_m,1,2023-11-26,14:35:50,126.67,126.67,M,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+390,168,hyd_pump_l,9,2023-02-24,16:37:46,36.75,330.75,S,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+391,379,starter_motor_s,4,2023-02-05,16:53:27,568.2,2272.8,M,Electrical,WH01,HarvestTech Ltd,Starter Motor
+392,78,engine_filter_m,7,2023-07-01,00:52:13,368.67,2580.69,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+393,172,engine_filter_m,7,2023-09-17,11:11:46,178.32,1248.24,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+394,252,engine_filter_m,3,2023-05-05,10:11:17,162.21,486.63,S,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+395,359,sensor_temp_s,8,2023-07-22,03:05:28,881.64,7053.12,L,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+396,39,starter_motor_s,10,2023-04-21,02:16:03,666.6,6666.0,S,Electrical,WH01,FieldMachinery Inc,Starter Motor
+397,134,sensor_temp_s,7,2023-01-25,11:52:42,494.14,3458.98,M,Electrical,WH01,AgriParts Co,Temperature Sensor
+398,104,blade_std_s,10,2023-06-11,03:58:03,254.23,2542.3,S,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+399,161,bearing_axle_m,2,2023-03-22,19:30:44,553.47,1106.94,S,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+400,238,belt_drive_m,2,2023-01-17,03:17:31,257.48,514.96,L,Transmission,WH02,AgriParts Co,Drive Belt Medium
+401,111,sensor_temp_s,3,2023-04-19,03:19:15,1073.96,3221.88,M,Electrical,WH02,AgriParts Co,Temperature Sensor
+402,347,belt_drive_m,5,2023-08-03,06:19:49,70.85,354.25,M,Transmission,WH02,HarvestTech Ltd,Drive Belt Medium
+403,49,chain_feed_l,2,2023-01-23,05:05:22,204.14,408.28,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+404,102,bearing_axle_m,6,2023-04-28,22:56:54,1407.92,8447.52,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+405,39,engine_filter_m,2,2023-04-21,07:11:59,1356.18,2712.36,M,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+406,170,hyd_pump_l,1,2023-06-02,16:47:03,99.69,99.69,L,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+407,255,engine_filter_m,7,2023-04-08,15:32:03,279.89,1959.23,S,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+408,144,chain_feed_l,3,2023-07-15,01:15:41,930.81,2792.43,L,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+409,256,bearing_axle_m,9,2023-02-18,17:26:27,114.94,1034.46,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+410,215,gearbox_hd_l,9,2023-11-29,09:04:16,955.36,8598.24,L,Transmission,WH01,GreenAgro Supplies,Heavy Duty Gearbox
+411,366,sensor_temp_s,8,2023-02-07,19:49:31,1177.62,9420.96,M,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+412,199,belt_drive_m,3,2023-12-04,00:56:56,495.34,1486.02,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+413,30,chain_feed_l,9,2023-10-29,13:00:49,1156.09,10404.81,S,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+414,127,gearbox_hd_l,5,2023-07-24,19:25:51,1229.02,6145.1,L,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+415,295,bearing_axle_m,6,2023-07-28,06:19:28,284.75,1708.5,L,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+416,303,engine_filter_m,6,2023-01-02,20:40:03,856.32,5137.92,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+417,278,belt_drive_m,3,2023-03-13,17:51:22,81.0,243.0,S,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+418,11,radiator_cool_m,8,2023-02-14,00:01:29,514.31,4114.48,L,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+419,175,blade_std_s,6,2023-03-20,02:10:06,57.32,343.92,L,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+420,397,hyd_pump_l,9,2023-03-10,13:17:06,1441.82,12976.38,M,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+421,301,hyd_pump_l,6,2023-03-26,10:59:12,500.84,3005.04,S,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+422,328,chain_feed_l,6,2023-03-22,06:20:33,1068.09,6408.54,L,Feeding System,WH03,FieldMachinery Inc,Feed Chain Assembly
+423,115,starter_motor_s,3,2023-11-26,13:46:35,477.56,1432.68,L,Electrical,WH02,HarvestTech Ltd,Starter Motor
+424,91,engine_filter_m,10,2023-03-25,14:15:27,1279.87,12798.7,L,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+425,309,sensor_temp_s,10,2023-12-23,08:02:33,968.48,9684.8,S,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+426,170,hyd_pump_l,4,2023-06-02,12:37:37,1474.01,5896.04,S,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+427,363,sensor_temp_s,8,2023-06-03,00:24:53,416.19,3329.52,S,Electrical,WH03,AgriParts Co,Temperature Sensor
+428,180,belt_drive_m,2,2023-01-01,00:02:47,96.02,192.04,M,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+429,86,bearing_axle_m,8,2023-11-08,13:47:18,543.07,4344.56,M,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+430,296,gearbox_hd_l,3,2023-09-06,16:25:51,133.72,401.16,S,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+431,164,belt_drive_m,2,2023-05-15,02:42:05,529.17,1058.34,M,Transmission,WH01,AgriParts Co,Drive Belt Medium
+432,281,hyd_pump_l,6,2023-05-23,21:37:40,1478.28,8869.68,M,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+433,221,blade_std_s,10,2023-05-07,15:48:31,256.73,2567.3,S,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+434,98,bearing_axle_m,9,2023-04-23,19:39:55,416.27,3746.43,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+435,50,engine_filter_m,7,2023-08-24,20:49:03,835.75,5850.25,M,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+436,185,engine_filter_m,7,2023-02-27,03:11:25,459.46,3216.22,L,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+437,103,hyd_pump_l,1,2023-01-17,07:32:05,276.98,276.98,M,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+438,60,belt_drive_m,7,2023-10-23,17:08:47,746.42,5224.94,L,Transmission,WH02,AgriParts Co,Drive Belt Medium
+439,329,radiator_cool_m,7,2023-01-30,06:43:52,572.26,4005.82,M,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+440,229,engine_filter_m,5,2023-10-29,16:00:37,710.96,3554.8,S,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+441,78,hyd_pump_l,2,2023-07-01,12:31:01,1217.07,2434.14,M,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+442,284,engine_filter_m,7,2023-02-08,19:01:35,642.48,4497.36,L,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+443,294,gearbox_hd_l,8,2023-03-27,10:52:51,141.46,1131.68,L,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+444,62,chain_feed_l,3,2023-12-27,06:05:10,1458.94,4376.82,S,Feeding System,WH01,AgriParts Co,Feed Chain Assembly
+445,217,hyd_pump_l,7,2023-08-13,07:21:05,1495.97,10471.79,L,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+446,164,hyd_pump_l,2,2023-05-15,14:07:48,845.64,1691.28,L,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+447,267,chain_feed_l,1,2023-11-27,22:41:05,891.67,891.67,M,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+448,77,blade_std_s,10,2023-07-09,21:24:21,884.45,8844.5,S,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+449,147,radiator_cool_m,6,2023-09-28,14:57:36,414.6,2487.6,L,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+450,20,blade_std_s,5,2023-11-05,14:40:18,237.18,1185.9,L,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+451,20,bearing_axle_m,6,2023-11-05,08:38:59,97.7,586.2,M,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+452,11,sensor_temp_s,5,2023-02-14,11:19:16,438.51,2192.55,M,Electrical,WH03,AgriParts Co,Temperature Sensor
+453,117,blade_std_s,5,2023-03-15,16:07:59,1166.7,5833.5,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+454,310,hyd_pump_l,4,2023-10-12,16:04:56,336.8,1347.2,M,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+455,389,radiator_cool_m,6,2023-12-01,02:02:47,785.02,4710.12,S,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+456,364,radiator_cool_m,7,2023-08-23,04:56:19,1176.26,8233.82,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+457,89,gearbox_hd_l,4,2023-10-01,02:05:53,393.0,1572.0,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+458,361,gearbox_hd_l,5,2023-12-10,13:24:40,1239.67,6198.35,L,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+459,349,engine_filter_m,4,2023-10-26,13:33:39,745.96,2983.84,M,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+460,301,radiator_cool_m,6,2023-03-26,12:32:01,266.18,1597.08,M,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+461,146,engine_filter_m,7,2023-08-28,01:48:27,265.29,1857.03,L,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+462,332,gearbox_hd_l,4,2023-04-06,09:47:49,986.09,3944.36,L,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+463,243,blade_std_s,3,2023-05-23,21:53:12,1206.28,3618.84,S,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+464,365,belt_drive_m,7,2023-06-11,13:42:25,1281.09,8967.63,M,Transmission,WH02,HarvestTech Ltd,Drive Belt Medium
+465,239,belt_drive_m,9,2023-06-19,22:42:17,610.8,5497.2,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+466,288,starter_motor_s,10,2023-01-26,10:17:31,465.25,4652.5,S,Electrical,WH02,AgriParts Co,Starter Motor
+467,173,belt_drive_m,6,2023-11-08,10:04:51,410.19,2461.14,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+468,97,blade_std_s,9,2023-10-13,08:44:56,1352.04,12168.36,L,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+469,349,blade_std_s,1,2023-10-26,23:51:44,758.62,758.62,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+470,208,bearing_axle_m,1,2023-10-04,21:13:38,1069.4,1069.4,L,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+471,372,gearbox_hd_l,9,2023-02-07,23:14:25,1182.72,10644.48,L,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+472,88,radiator_cool_m,3,2023-03-29,10:41:46,168.96,506.88,S,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+473,372,radiator_cool_m,3,2023-02-07,12:13:12,990.29,2970.87,S,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+474,382,belt_drive_m,7,2023-05-26,12:03:46,573.23,4012.61,L,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+475,61,chain_feed_l,1,2023-04-09,23:05:51,885.77,885.77,L,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+476,100,radiator_cool_m,2,2023-06-16,13:53:46,806.51,1613.02,M,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+477,71,gearbox_hd_l,6,2023-07-14,14:53:53,1481.11,8886.66,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+478,367,blade_std_s,2,2023-01-05,17:45:08,515.63,1031.26,S,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+479,3,chain_feed_l,5,2023-01-13,07:37:24,1147.76,5738.8,S,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+480,251,hyd_pump_l,3,2023-08-31,22:22:21,664.72,1994.16,M,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+481,245,bearing_axle_m,1,2023-09-06,01:22:24,812.33,812.33,L,Chassis,WH02,AgriParts Co,Axle Bearing
+482,165,radiator_cool_m,4,2023-09-14,00:39:08,1023.2,4092.8,L,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+483,116,sensor_temp_s,5,2023-08-23,04:41:39,176.49,882.45,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+484,86,hyd_pump_l,1,2023-11-08,10:51:25,1423.98,1423.98,M,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+485,223,blade_std_s,6,2023-02-02,17:50:48,554.9,3329.4,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+486,10,gearbox_hd_l,4,2023-10-07,04:46:37,336.51,1346.04,S,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+487,64,sensor_temp_s,1,2023-01-24,13:39:37,1317.9,1317.9,M,Electrical,WH03,AgriParts Co,Temperature Sensor
+488,305,engine_filter_m,2,2023-05-16,23:47:44,1258.28,2516.56,S,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+489,214,chain_feed_l,7,2023-12-10,04:29:59,832.24,5825.68,M,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+490,106,engine_filter_m,5,2023-05-18,15:19:24,1000.96,5004.8,L,Engine Components,WH03,FieldMachinery Inc,Engine Oil Filter
+491,319,starter_motor_s,3,2023-10-05,15:14:56,1250.21,3750.63,S,Electrical,WH03,AgriParts Co,Starter Motor
+492,145,hyd_pump_l,2,2023-11-02,18:07:19,318.0,636.0,S,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+493,184,bearing_axle_m,5,2023-01-10,05:50:20,83.12,415.6,M,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+494,170,gearbox_hd_l,1,2023-06-02,00:27:51,1015.66,1015.66,S,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+495,77,hyd_pump_l,9,2023-07-09,02:43:56,1092.26,9830.34,S,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+496,234,belt_drive_m,5,2023-11-20,16:54:13,98.87,494.35,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+497,185,sensor_temp_s,7,2023-02-27,04:13:11,165.12,1155.84,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+498,340,blade_std_s,6,2023-10-19,13:01:01,1344.43,8066.58,L,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+499,191,sensor_temp_s,3,2023-10-18,04:08:40,616.15,1848.45,M,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+500,354,chain_feed_l,7,2023-04-15,23:37:25,1332.03,9324.21,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+501,357,engine_filter_m,3,2023-05-03,03:46:33,638.64,1915.92,L,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+502,93,starter_motor_s,7,2023-07-14,13:03:22,926.75,6487.25,L,Electrical,WH03,HarvestTech Ltd,Starter Motor
+503,248,chain_feed_l,2,2023-03-09,14:58:27,675.01,1350.02,S,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+504,7,radiator_cool_m,10,2023-03-13,20:34:17,355.38,3553.8,L,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+505,222,gearbox_hd_l,8,2023-04-26,12:35:18,1003.97,8031.76,L,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+506,286,starter_motor_s,1,2023-10-09,00:25:26,974.01,974.01,S,Electrical,WH03,GreenAgro Supplies,Starter Motor
+507,254,blade_std_s,2,2023-07-28,17:54:01,497.93,995.86,M,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+508,260,gearbox_hd_l,9,2023-07-01,23:25:20,583.49,5251.41,S,Transmission,WH01,GreenAgro Supplies,Heavy Duty Gearbox
+509,228,starter_motor_s,8,2023-04-28,03:12:16,1288.47,10307.76,M,Electrical,WH02,AgriParts Co,Starter Motor
+510,255,engine_filter_m,2,2023-04-08,14:41:19,633.2,1266.4,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+511,47,starter_motor_s,10,2023-11-06,23:12:43,474.28,4742.8,L,Electrical,WH03,HarvestTech Ltd,Starter Motor
+512,336,chain_feed_l,6,2023-12-12,13:13:44,1242.33,7453.98,S,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+513,287,starter_motor_s,10,2023-02-20,17:13:34,1082.07,10820.7,M,Electrical,WH03,GreenAgro Supplies,Starter Motor
+514,59,hyd_pump_l,4,2023-07-05,00:04:47,528.5,2114.0,L,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+515,360,hyd_pump_l,1,2023-03-09,05:58:36,751.32,751.32,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+516,55,belt_drive_m,10,2023-10-10,07:07:59,301.63,3016.3,M,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+517,98,sensor_temp_s,2,2023-04-23,15:05:25,93.59,187.18,L,Electrical,WH03,AgriParts Co,Temperature Sensor
+518,396,chain_feed_l,8,2023-02-23,23:58:25,894.24,7153.92,L,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+519,3,radiator_cool_m,1,2023-01-13,20:08:32,1404.58,1404.58,L,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+520,355,starter_motor_s,3,2023-12-09,04:40:27,177.74,533.22,L,Electrical,WH03,FieldMachinery Inc,Starter Motor
+521,259,bearing_axle_m,7,2023-08-09,22:10:22,1375.97,9631.79,S,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+522,176,belt_drive_m,8,2023-07-11,04:51:21,228.82,1830.56,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+523,360,radiator_cool_m,6,2023-03-09,20:09:19,958.06,5748.36,S,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+524,352,sensor_temp_s,3,2023-06-11,23:40:08,1463.39,4390.17,S,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+525,364,hyd_pump_l,6,2023-08-23,20:28:19,733.55,4401.3,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+526,346,radiator_cool_m,5,2023-02-11,15:22:43,1217.25,6086.25,L,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+527,196,blade_std_s,1,2023-09-30,02:03:39,319.86,319.86,S,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+528,75,engine_filter_m,5,2023-07-06,07:25:38,1136.55,5682.75,S,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+529,53,starter_motor_s,9,2023-07-13,08:10:00,1120.06,10080.54,L,Electrical,WH02,HarvestTech Ltd,Starter Motor
+530,262,belt_drive_m,1,2023-07-30,13:53:34,596.64,596.64,L,Transmission,WH02,AgriParts Co,Drive Belt Medium
+531,7,belt_drive_m,4,2023-03-13,22:35:38,1306.55,5226.2,M,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+532,387,starter_motor_s,9,2023-06-04,21:58:07,314.79,2833.11,L,Electrical,WH01,FieldMachinery Inc,Starter Motor
+533,230,blade_std_s,2,2023-04-23,06:48:27,1444.65,2889.3,L,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+534,194,engine_filter_m,7,2023-09-06,10:09:43,845.98,5921.86,S,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+535,3,sensor_temp_s,8,2023-01-13,05:38:10,83.91,671.28,M,Electrical,WH03,AgriParts Co,Temperature Sensor
+536,397,starter_motor_s,5,2023-03-10,17:51:37,1190.11,5950.55,L,Electrical,WH02,AgriParts Co,Starter Motor
+537,363,sensor_temp_s,9,2023-06-03,08:00:30,1436.56,12929.04,L,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+538,213,radiator_cool_m,9,2023-07-24,14:41:16,160.62,1445.58,S,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+539,170,sensor_temp_s,5,2023-06-02,07:57:12,1426.7,7133.5,L,Electrical,WH03,GreenAgro Supplies,Temperature Sensor
+540,288,engine_filter_m,2,2023-01-26,12:35:51,682.36,1364.72,L,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+541,21,sensor_temp_s,7,2023-01-14,04:07:40,594.17,4159.19,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+542,13,radiator_cool_m,6,2023-08-05,18:43:31,1209.15,7254.9,M,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+543,152,gearbox_hd_l,6,2023-02-28,18:42:37,146.46,878.76,S,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+544,321,hyd_pump_l,4,2023-06-10,22:55:11,1166.03,4664.12,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+545,106,radiator_cool_m,7,2023-05-18,23:32:26,1229.71,8607.97,S,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+546,13,chain_feed_l,6,2023-08-05,01:22:45,154.09,924.54,S,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+547,286,hyd_pump_l,10,2023-10-09,08:17:17,1368.71,13687.1,M,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+548,323,bearing_axle_m,7,2023-01-26,11:31:11,49.91,349.37,L,Chassis,WH01,AgriParts Co,Axle Bearing
+549,329,starter_motor_s,2,2023-01-30,21:19:16,92.14,184.28,S,Electrical,WH02,AgriParts Co,Starter Motor
+550,149,belt_drive_m,10,2023-10-11,03:08:58,440.24,4402.4,M,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+551,339,engine_filter_m,8,2023-03-03,05:41:29,811.86,6494.88,S,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+552,280,belt_drive_m,3,2023-04-04,10:51:06,1024.0,3072.0,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+553,6,radiator_cool_m,9,2023-04-25,05:08:50,206.77,1860.93,S,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+554,276,radiator_cool_m,2,2023-10-02,11:05:36,334.83,669.66,L,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+555,109,bearing_axle_m,9,2023-10-18,05:11:11,262.41,2361.69,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+556,100,hyd_pump_l,3,2023-06-16,20:39:16,1282.07,3846.21,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+557,149,hyd_pump_l,5,2023-10-11,03:34:31,316.19,1580.95,L,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+558,183,blade_std_s,4,2023-09-08,03:38:33,445.58,1782.32,S,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+559,249,chain_feed_l,6,2023-10-20,22:26:25,997.65,5985.9,L,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+560,290,starter_motor_s,6,2023-10-04,11:31:02,1439.02,8634.12,S,Electrical,WH01,FieldMachinery Inc,Starter Motor
+561,127,gearbox_hd_l,7,2023-07-24,10:04:24,1264.16,8849.12,S,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+562,246,chain_feed_l,8,2023-04-20,13:03:40,1167.78,9342.24,M,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+563,90,starter_motor_s,2,2023-05-06,10:13:00,1291.6,2583.2,S,Electrical,WH03,HarvestTech Ltd,Starter Motor
+564,135,hyd_pump_l,2,2023-02-26,00:40:41,1278.14,2556.28,L,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+565,394,starter_motor_s,4,2023-06-03,01:20:04,838.6,3354.4,L,Electrical,WH03,GreenAgro Supplies,Starter Motor
+566,335,blade_std_s,6,2023-02-04,14:17:25,354.38,2126.28,L,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+567,69,chain_feed_l,9,2023-04-30,18:35:00,158.57,1427.13,M,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+568,340,gearbox_hd_l,10,2023-10-19,06:02:17,1141.88,11418.8,S,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+569,92,starter_motor_s,10,2023-08-25,05:19:22,1110.48,11104.8,M,Electrical,WH02,AgriParts Co,Starter Motor
+570,113,chain_feed_l,4,2023-09-13,02:17:19,414.93,1659.72,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+571,266,sensor_temp_s,7,2023-12-01,17:06:01,1378.91,9652.37,S,Electrical,WH01,FieldMachinery Inc,Temperature Sensor
+572,53,radiator_cool_m,5,2023-07-13,09:35:13,878.48,4392.4,L,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+573,335,bearing_axle_m,6,2023-02-04,21:23:48,988.67,5932.02,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+574,193,gearbox_hd_l,9,2023-02-13,14:46:34,545.52,4909.68,M,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+575,310,engine_filter_m,9,2023-10-12,05:03:34,673.85,6064.65,S,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+576,109,blade_std_s,3,2023-10-18,05:43:45,559.28,1677.84,L,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+577,213,sensor_temp_s,2,2023-07-24,17:31:53,1020.96,2041.92,M,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+578,332,bearing_axle_m,1,2023-04-06,08:52:18,88.64,88.64,L,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+579,69,radiator_cool_m,1,2023-04-30,20:50:08,241.63,241.63,S,Cooling System,WH02,HarvestTech Ltd,Radiator Cooling Unit
+580,265,bearing_axle_m,10,2023-12-11,20:31:12,965.49,9654.9,L,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+581,44,gearbox_hd_l,8,2023-02-19,22:04:58,1489.34,11914.72,M,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+582,211,starter_motor_s,3,2024-01-01,21:12:48,1235.17,3705.51,S,Electrical,WH03,FieldMachinery Inc,Starter Motor
+583,86,sensor_temp_s,8,2023-11-08,21:43:08,896.13,7169.04,S,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+584,68,hyd_pump_l,1,2023-02-10,07:22:02,796.0,796.0,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+585,77,starter_motor_s,2,2023-07-09,06:27:35,726.91,1453.82,L,Electrical,WH03,AgriParts Co,Starter Motor
+586,273,radiator_cool_m,2,2023-05-08,03:23:34,736.31,1472.62,S,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+587,397,bearing_axle_m,9,2023-03-10,15:18:59,571.31,5141.79,S,Chassis,WH03,GreenAgro Supplies,Axle Bearing
+588,118,chain_feed_l,7,2023-05-16,12:45:43,893.85,6256.95,L,Feeding System,WH03,AgriParts Co,Feed Chain Assembly
+589,218,blade_std_s,5,2023-09-22,17:22:19,1154.64,5773.2,S,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+590,132,gearbox_hd_l,1,2023-09-10,00:15:32,877.53,877.53,S,Transmission,WH03,AgriParts Co,Heavy Duty Gearbox
+591,193,gearbox_hd_l,6,2023-02-13,14:53:08,559.35,3356.1,S,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+592,134,radiator_cool_m,7,2023-01-25,20:33:32,564.33,3950.31,M,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+593,387,gearbox_hd_l,7,2023-06-04,20:06:05,1181.09,8267.63,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+594,287,radiator_cool_m,8,2023-02-20,09:14:23,1483.05,11864.4,L,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+595,377,blade_std_s,2,2023-03-09,08:21:56,683.73,1367.46,L,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+596,110,radiator_cool_m,7,2023-06-11,12:19:19,1206.26,8443.82,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+597,83,bearing_axle_m,1,2023-12-16,03:18:59,1239.3,1239.3,M,Chassis,WH03,GreenAgro Supplies,Axle Bearing
+598,46,hyd_pump_l,5,2023-06-26,08:04:27,571.98,2859.9,L,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+599,206,starter_motor_s,9,2023-08-05,10:25:48,1074.62,9671.58,L,Electrical,WH01,HarvestTech Ltd,Starter Motor
+600,328,chain_feed_l,8,2023-03-22,00:23:23,322.52,2580.16,L,Feeding System,WH03,FieldMachinery Inc,Feed Chain Assembly
+601,100,engine_filter_m,10,2023-06-16,18:35:18,785.83,7858.3,S,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+602,346,engine_filter_m,6,2023-02-11,08:42:39,991.15,5946.9,S,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+603,400,bearing_axle_m,6,2023-02-24,14:23:12,623.04,3738.24,S,Chassis,WH03,AgriParts Co,Axle Bearing
+604,378,hyd_pump_l,2,2023-06-28,20:00:36,444.63,889.26,L,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+605,178,belt_drive_m,4,2023-10-04,22:04:37,1445.51,5782.04,M,Transmission,WH02,AgriParts Co,Drive Belt Medium
+606,134,blade_std_s,7,2023-01-25,18:25:53,182.04,1274.28,S,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+607,175,hyd_pump_l,9,2023-03-20,09:22:56,1317.27,11855.43,L,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+608,194,starter_motor_s,8,2023-09-06,08:51:26,1142.27,9138.16,M,Electrical,WH03,GreenAgro Supplies,Starter Motor
+609,301,engine_filter_m,8,2023-03-26,04:13:59,405.28,3242.24,M,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+610,347,gearbox_hd_l,6,2023-08-03,15:00:57,1434.28,8605.68,L,Transmission,WH03,AgriParts Co,Heavy Duty Gearbox
+611,359,belt_drive_m,4,2023-07-22,10:27:35,162.19,648.76,L,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+612,39,radiator_cool_m,3,2023-04-21,17:21:03,487.96,1463.88,S,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+613,94,gearbox_hd_l,8,2023-05-19,07:16:10,371.42,2971.36,S,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+614,118,gearbox_hd_l,4,2023-05-16,22:31:20,550.14,2200.56,S,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+615,347,chain_feed_l,10,2023-08-03,00:14:28,1152.26,11522.6,L,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+616,191,starter_motor_s,6,2023-10-18,17:55:32,1349.73,8098.38,L,Electrical,WH02,GreenAgro Supplies,Starter Motor
+617,94,radiator_cool_m,5,2023-05-19,14:29:10,352.59,1762.95,L,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+618,270,bearing_axle_m,8,2023-07-26,19:41:19,73.03,584.24,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+619,235,hyd_pump_l,9,2023-01-31,16:45:02,490.59,4415.31,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+620,195,starter_motor_s,2,2023-02-05,11:50:55,558.36,1116.72,M,Electrical,WH01,FieldMachinery Inc,Starter Motor
+621,122,belt_drive_m,8,2023-10-03,22:19:18,531.07,4248.56,S,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+622,108,bearing_axle_m,6,2023-04-19,13:17:31,1285.13,7710.78,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+623,293,blade_std_s,10,2023-05-02,08:19:18,1225.93,12259.3,L,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+624,285,bearing_axle_m,7,2023-08-15,07:08:18,240.12,1680.84,L,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+625,5,blade_std_s,7,2023-05-06,18:11:23,223.35,1563.45,L,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+626,250,belt_drive_m,5,2023-10-23,20:28:00,1291.29,6456.45,S,Transmission,WH02,AgriParts Co,Drive Belt Medium
+627,354,blade_std_s,1,2023-04-15,07:50:41,1225.38,1225.38,M,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+628,231,sensor_temp_s,5,2023-01-04,13:08:32,556.45,2782.25,L,Electrical,WH02,FieldMachinery Inc,Temperature Sensor
+629,11,bearing_axle_m,2,2023-02-14,12:46:58,1304.37,2608.74,L,Chassis,WH01,HarvestTech Ltd,Axle Bearing
+630,400,belt_drive_m,6,2023-02-24,11:50:10,1017.96,6107.76,M,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+631,41,bearing_axle_m,10,2023-02-22,10:25:55,709.03,7090.3,S,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+632,216,starter_motor_s,10,2023-07-11,14:44:14,1277.13,12771.3,S,Electrical,WH01,HarvestTech Ltd,Starter Motor
+633,176,gearbox_hd_l,6,2023-07-11,11:32:13,988.19,5929.14,L,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+634,139,chain_feed_l,6,2023-12-15,21:22:08,793.38,4760.28,M,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+635,95,engine_filter_m,3,2023-11-24,08:32:33,1001.48,3004.44,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+636,108,blade_std_s,7,2023-04-19,03:45:01,165.94,1161.58,M,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+637,14,bearing_axle_m,9,2023-01-17,03:01:51,178.29,1604.61,L,Chassis,WH01,AgriParts Co,Axle Bearing
+638,336,bearing_axle_m,5,2023-12-12,08:21:02,389.91,1949.55,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+639,68,radiator_cool_m,3,2023-02-10,01:02:24,76.85,230.55,M,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+640,240,radiator_cool_m,5,2023-02-06,19:58:18,681.15,3405.75,L,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+641,303,starter_motor_s,8,2023-01-02,22:58:32,1129.64,9037.12,L,Electrical,WH02,FieldMachinery Inc,Starter Motor
+642,178,chain_feed_l,9,2023-10-04,08:16:10,1211.94,10907.46,M,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+643,212,belt_drive_m,3,2023-06-09,11:03:09,40.57,121.71,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+644,147,chain_feed_l,9,2023-09-28,00:18:10,1039.46,9355.14,M,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+645,5,bearing_axle_m,5,2023-05-06,21:44:10,366.04,1830.2,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+646,97,bearing_axle_m,9,2023-10-13,15:54:52,607.26,5465.34,S,Chassis,WH03,GreenAgro Supplies,Axle Bearing
+647,194,gearbox_hd_l,5,2023-09-06,02:53:02,647.8,3239.0,S,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+648,146,radiator_cool_m,5,2023-08-28,15:02:00,302.3,1511.5,S,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+649,149,hyd_pump_l,8,2023-10-11,22:29:27,692.83,5542.64,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+650,97,sensor_temp_s,1,2023-10-13,05:32:22,98.21,98.21,L,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+651,53,belt_drive_m,5,2023-07-13,04:33:09,1079.91,5399.55,L,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+652,47,blade_std_s,1,2023-11-06,17:58:14,345.35,345.35,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+653,191,chain_feed_l,1,2023-10-18,12:01:26,143.33,143.33,S,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+654,398,bearing_axle_m,2,2023-05-16,19:46:37,718.47,1436.94,S,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+655,7,hyd_pump_l,4,2023-03-13,14:00:36,1162.56,4650.24,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+656,102,chain_feed_l,2,2023-04-28,18:58:26,1007.36,2014.72,S,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+657,349,belt_drive_m,6,2023-10-26,05:46:29,953.02,5718.12,S,Transmission,WH03,AgriParts Co,Drive Belt Medium
+658,130,chain_feed_l,5,2023-03-12,07:14:07,556.63,2783.15,S,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+659,58,gearbox_hd_l,7,2023-11-13,11:48:54,47.22,330.54,M,Transmission,WH03,AgriParts Co,Heavy Duty Gearbox
+660,203,gearbox_hd_l,1,2023-05-16,01:31:44,882.09,882.09,L,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+661,191,hyd_pump_l,4,2023-10-18,05:44:29,762.38,3049.52,L,Hydraulic System,WH03,FieldMachinery Inc,Hydraulic Pump Large
+662,389,engine_filter_m,1,2023-12-01,12:56:38,975.75,975.75,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+663,65,chain_feed_l,4,2023-12-05,11:31:55,1472.97,5891.88,L,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+664,376,gearbox_hd_l,1,2023-05-16,13:45:14,553.3,553.3,S,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+665,249,chain_feed_l,9,2023-10-20,10:43:48,825.53,7429.77,M,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+666,279,sensor_temp_s,6,2023-08-05,17:03:13,431.1,2586.6,L,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+667,36,radiator_cool_m,3,2023-06-24,16:21:41,461.12,1383.36,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+668,233,engine_filter_m,9,2023-12-29,13:48:01,1107.15,9964.35,S,Engine Components,WH03,FieldMachinery Inc,Engine Oil Filter
+669,398,starter_motor_s,4,2023-05-16,11:40:34,1088.48,4353.92,L,Electrical,WH03,GreenAgro Supplies,Starter Motor
+670,98,radiator_cool_m,8,2023-04-23,20:04:41,252.34,2018.72,M,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+671,329,sensor_temp_s,2,2023-01-30,03:30:16,796.72,1593.44,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+672,92,engine_filter_m,4,2023-08-25,03:53:51,740.92,2963.68,S,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+673,337,chain_feed_l,9,2023-05-01,22:43:05,1059.44,9534.96,M,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+674,114,starter_motor_s,2,2023-07-22,00:28:35,1397.06,2794.12,S,Electrical,WH03,GreenAgro Supplies,Starter Motor
+675,41,chain_feed_l,1,2023-02-22,13:08:27,848.08,848.08,M,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+676,316,belt_drive_m,9,2023-04-22,01:28:48,1108.09,9972.81,M,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+677,266,hyd_pump_l,2,2023-12-01,08:24:39,809.2,1618.4,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+678,292,blade_std_s,9,2023-02-17,20:19:16,637.4,5736.6,S,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+679,346,chain_feed_l,7,2023-02-11,03:47:24,271.04,1897.28,S,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+680,259,sensor_temp_s,3,2023-08-09,19:26:19,1497.69,4493.07,M,Electrical,WH02,FieldMachinery Inc,Temperature Sensor
+681,282,sensor_temp_s,6,2023-08-25,15:00:46,1152.17,6913.02,M,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+682,312,gearbox_hd_l,10,2023-09-07,19:51:56,340.54,3405.4,L,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+683,185,chain_feed_l,8,2023-02-27,14:27:27,25.29,202.32,S,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+684,266,blade_std_s,5,2023-12-01,00:14:20,467.99,2339.95,S,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+685,12,belt_drive_m,9,2023-10-30,18:36:53,845.58,7610.22,L,Transmission,WH01,AgriParts Co,Drive Belt Medium
+686,20,chain_feed_l,6,2023-11-05,05:41:01,229.15,1374.9,M,Feeding System,WH03,HarvestTech Ltd,Feed Chain Assembly
+687,120,belt_drive_m,5,2023-05-07,03:20:46,866.47,4332.35,L,Transmission,WH01,AgriParts Co,Drive Belt Medium
+688,371,sensor_temp_s,8,2023-02-21,06:17:42,745.21,5961.68,L,Electrical,WH03,AgriParts Co,Temperature Sensor
+689,305,belt_drive_m,1,2023-05-16,20:58:54,587.78,587.78,S,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+690,223,bearing_axle_m,2,2023-02-02,08:15:16,1127.83,2255.66,L,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+691,28,belt_drive_m,9,2023-04-23,01:29:57,495.99,4463.91,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+692,258,gearbox_hd_l,3,2023-12-04,01:50:21,1018.61,3055.83,M,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+693,114,bearing_axle_m,5,2023-07-22,14:21:24,243.32,1216.6,M,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+694,293,engine_filter_m,9,2023-05-02,14:32:02,412.27,3710.43,M,Engine Components,WH03,GreenAgro Supplies,Engine Oil Filter
+695,397,blade_std_s,3,2023-03-10,17:30:35,849.96,2549.88,M,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+696,288,starter_motor_s,9,2023-01-26,08:57:55,382.41,3441.69,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+697,351,starter_motor_s,2,2023-09-25,04:05:49,1015.83,2031.66,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+698,98,sensor_temp_s,6,2023-04-23,21:37:20,991.73,5950.38,M,Electrical,WH01,FieldMachinery Inc,Temperature Sensor
+699,316,chain_feed_l,10,2023-04-22,05:18:32,674.68,6746.8,S,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+700,80,hyd_pump_l,2,2023-12-10,01:59:08,383.5,767.0,L,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+701,8,sensor_temp_s,2,2023-02-22,11:06:32,688.84,1377.68,S,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+702,379,radiator_cool_m,4,2023-02-05,07:25:12,830.98,3323.92,M,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+703,319,blade_std_s,1,2023-10-05,13:42:42,884.93,884.93,L,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+704,131,blade_std_s,1,2023-09-18,10:20:26,321.03,321.03,L,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+705,28,chain_feed_l,1,2023-04-23,02:25:29,598.25,598.25,M,Feeding System,WH03,FieldMachinery Inc,Feed Chain Assembly
+706,56,engine_filter_m,5,2023-05-31,23:38:39,595.12,2975.6,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+707,162,chain_feed_l,10,2023-08-21,19:21:12,154.83,1548.3,S,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+708,288,engine_filter_m,1,2023-01-26,09:00:26,1385.35,1385.35,M,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+709,202,blade_std_s,1,2023-03-26,12:37:33,1034.36,1034.36,M,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+710,121,radiator_cool_m,5,2023-10-15,02:15:27,948.04,4740.2,M,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+711,116,blade_std_s,6,2023-08-23,14:18:11,993.97,5963.82,S,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+712,267,starter_motor_s,4,2023-11-27,15:11:40,379.53,1518.12,S,Electrical,WH02,FieldMachinery Inc,Starter Motor
+713,310,sensor_temp_s,8,2023-10-12,19:44:31,219.36,1754.88,L,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+714,71,belt_drive_m,9,2023-07-14,04:55:27,659.34,5934.06,S,Transmission,WH03,HarvestTech Ltd,Drive Belt Medium
+715,163,hyd_pump_l,9,2023-01-02,19:24:16,1424.19,12817.71,S,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+716,75,engine_filter_m,6,2023-07-06,15:04:29,1442.76,8656.56,M,Engine Components,WH02,FieldMachinery Inc,Engine Oil Filter
+717,78,gearbox_hd_l,2,2023-07-01,04:47:21,297.5,595.0,L,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+718,311,starter_motor_s,10,2023-12-05,08:24:26,904.63,9046.3,S,Electrical,WH03,AgriParts Co,Starter Motor
+719,184,hyd_pump_l,8,2023-01-10,04:52:55,765.93,6127.44,L,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+720,95,bearing_axle_m,8,2023-11-24,17:15:08,227.83,1822.64,S,Chassis,WH01,AgriParts Co,Axle Bearing
+721,210,engine_filter_m,5,2023-04-13,15:02:18,353.27,1766.35,L,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+722,34,blade_std_s,8,2023-12-24,22:27:59,747.67,5981.36,M,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+723,219,bearing_axle_m,1,2023-08-20,22:08:02,1109.61,1109.61,M,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+724,202,starter_motor_s,10,2023-03-26,21:37:11,815.84,8158.4,L,Electrical,WH03,AgriParts Co,Starter Motor
+725,267,hyd_pump_l,8,2023-11-27,16:38:06,1244.84,9958.72,S,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+726,377,engine_filter_m,9,2023-03-09,14:06:17,786.29,7076.61,L,Engine Components,WH01,HarvestTech Ltd,Engine Oil Filter
+727,150,chain_feed_l,7,2023-01-06,11:05:18,1166.17,8163.19,M,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+728,217,belt_drive_m,10,2023-08-13,01:59:09,1042.68,10426.8,S,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+729,47,radiator_cool_m,2,2023-11-06,06:32:42,1173.63,2347.26,L,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+730,202,bearing_axle_m,6,2023-03-26,16:24:58,61.75,370.5,M,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+731,233,hyd_pump_l,5,2023-12-29,11:47:57,1045.28,5226.4,L,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+732,47,hyd_pump_l,8,2023-11-06,23:05:09,560.34,4482.72,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+733,373,radiator_cool_m,10,2023-10-03,05:49:18,583.55,5835.5,M,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+734,172,starter_motor_s,3,2023-09-17,05:54:09,1306.51,3919.53,S,Electrical,WH03,AgriParts Co,Starter Motor
+735,215,belt_drive_m,5,2023-11-29,16:14:51,450.95,2254.75,S,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+736,104,engine_filter_m,10,2023-06-11,09:12:55,43.01,430.1,M,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+737,312,chain_feed_l,4,2023-09-07,07:53:46,893.57,3574.28,M,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+738,227,hyd_pump_l,10,2023-10-11,21:50:56,34.7,347.0,L,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+739,26,blade_std_s,3,2023-10-07,02:00:17,988.58,2965.74,S,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+740,342,starter_motor_s,10,2023-10-24,10:51:57,513.39,5133.9,S,Electrical,WH01,AgriParts Co,Starter Motor
+741,214,blade_std_s,3,2023-12-10,10:21:14,926.36,2779.08,L,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+742,234,starter_motor_s,6,2023-11-20,01:18:17,162.36,974.16,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+743,195,hyd_pump_l,7,2023-02-05,20:02:31,120.77,845.39,M,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+744,356,belt_drive_m,6,2023-06-10,19:11:21,635.29,3811.74,S,Transmission,WH03,HarvestTech Ltd,Drive Belt Medium
+745,314,engine_filter_m,2,2023-04-08,20:48:10,1101.35,2202.7,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+746,248,starter_motor_s,5,2023-03-09,15:32:54,923.05,4615.25,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+747,67,starter_motor_s,10,2023-05-29,18:04:23,791.57,7915.7,L,Electrical,WH02,GreenAgro Supplies,Starter Motor
+748,93,starter_motor_s,4,2023-07-14,10:34:34,1469.41,5877.64,S,Electrical,WH01,AgriParts Co,Starter Motor
+749,239,hyd_pump_l,4,2023-06-19,22:24:09,1498.51,5994.04,M,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+750,180,radiator_cool_m,4,2023-01-01,00:24:40,969.91,3879.64,L,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+751,35,belt_drive_m,5,2023-08-05,18:26:52,836.24,4181.2,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+752,175,bearing_axle_m,10,2023-03-20,22:25:39,1441.17,14411.7,S,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+753,174,chain_feed_l,8,2023-04-12,01:17:40,977.34,7818.72,M,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+754,275,sensor_temp_s,8,2023-04-08,15:04:17,1393.49,11147.92,S,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+755,290,sensor_temp_s,9,2023-10-04,19:30:39,52.61,473.49,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+756,182,hyd_pump_l,3,2023-06-15,10:12:40,1265.09,3795.27,M,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+757,293,starter_motor_s,7,2023-05-02,06:49:20,902.91,6320.37,M,Electrical,WH03,FieldMachinery Inc,Starter Motor
+758,364,engine_filter_m,5,2023-08-23,15:04:06,153.03,765.15,S,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+759,155,gearbox_hd_l,9,2023-05-17,11:00:25,283.14,2548.26,M,Transmission,WH01,HarvestTech Ltd,Heavy Duty Gearbox
+760,48,chain_feed_l,9,2023-05-16,00:54:28,1203.56,10832.04,L,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+761,175,chain_feed_l,9,2023-03-20,11:17:59,1168.91,10520.19,S,Feeding System,WH01,HarvestTech Ltd,Feed Chain Assembly
+762,106,engine_filter_m,8,2023-05-18,14:06:41,1077.67,8621.36,L,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+763,160,engine_filter_m,10,2023-08-11,03:10:13,516.6,5166.0,S,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+764,12,starter_motor_s,5,2023-10-30,23:15:35,1340.9,6704.5,M,Electrical,WH01,HarvestTech Ltd,Starter Motor
+765,147,belt_drive_m,9,2023-09-28,11:37:11,1164.86,10483.74,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+766,77,blade_std_s,5,2023-07-09,04:10:02,47.5,237.5,L,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+767,106,radiator_cool_m,6,2023-05-18,20:00:06,494.77,2968.62,S,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+768,294,gearbox_hd_l,3,2023-03-27,02:35:37,484.28,1452.84,M,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+769,26,blade_std_s,1,2023-10-07,17:08:20,1357.36,1357.36,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+770,28,hyd_pump_l,7,2023-04-23,14:16:09,289.0,2023.0,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+771,316,sensor_temp_s,5,2023-04-22,12:05:59,1230.73,6153.65,L,Electrical,WH03,AgriParts Co,Temperature Sensor
+772,387,chain_feed_l,10,2023-06-04,04:47:54,162.05,1620.5,L,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+773,234,belt_drive_m,8,2023-11-20,17:07:55,366.75,2934.0,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+774,187,bearing_axle_m,3,2023-06-07,12:01:36,1188.45,3565.35,M,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+775,16,hyd_pump_l,8,2023-02-17,04:06:36,543.38,4347.04,M,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+776,394,sensor_temp_s,10,2023-06-03,20:55:24,212.91,2129.1,S,Electrical,WH02,AgriParts Co,Temperature Sensor
+777,167,radiator_cool_m,2,2023-09-17,10:59:59,810.8,1621.6,M,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+778,123,starter_motor_s,4,2023-05-15,19:57:00,259.55,1038.2,M,Electrical,WH02,AgriParts Co,Starter Motor
+779,175,gearbox_hd_l,10,2023-03-20,15:41:51,1181.86,11818.6,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+780,279,gearbox_hd_l,3,2023-08-05,02:50:09,1115.57,3346.71,L,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+781,59,starter_motor_s,10,2023-07-05,16:51:14,504.93,5049.3,S,Electrical,WH02,HarvestTech Ltd,Starter Motor
+782,158,bearing_axle_m,2,2023-02-27,21:46:55,185.4,370.8,L,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+783,254,engine_filter_m,2,2023-07-28,07:55:22,1230.12,2460.24,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+784,388,blade_std_s,3,2023-11-10,16:29:32,808.6,2425.8,M,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+785,101,gearbox_hd_l,6,2023-01-29,10:54:46,866.16,5196.96,L,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+786,368,sensor_temp_s,2,2023-08-23,21:12:59,36.98,73.96,L,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+787,151,engine_filter_m,6,2023-12-15,19:59:03,1452.65,8715.9,S,Engine Components,WH03,FieldMachinery Inc,Engine Oil Filter
+788,57,belt_drive_m,1,2023-11-18,08:33:53,661.78,661.78,L,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+789,365,bearing_axle_m,7,2023-06-11,13:53:32,666.91,4668.37,S,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+790,244,blade_std_s,4,2023-12-09,20:13:20,592.28,2369.12,M,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+791,148,blade_std_s,3,2023-05-09,00:25:20,130.83,392.49,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+792,337,bearing_axle_m,3,2023-05-01,03:04:57,227.4,682.2,M,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+793,320,blade_std_s,8,2023-02-01,18:32:50,650.58,5204.64,M,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+794,116,blade_std_s,7,2023-08-23,22:00:42,35.96,251.72,M,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+795,365,radiator_cool_m,5,2023-06-11,14:57:29,1391.68,6958.4,L,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+796,20,starter_motor_s,8,2023-11-05,13:25:10,191.92,1535.36,M,Electrical,WH03,AgriParts Co,Starter Motor
+797,73,radiator_cool_m,5,2023-08-21,16:55:40,787.5,3937.5,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+798,126,chain_feed_l,2,2023-10-26,23:04:18,820.32,1640.64,L,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+799,176,radiator_cool_m,1,2023-07-11,17:04:15,694.7,694.7,M,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+800,216,sensor_temp_s,5,2023-07-11,10:31:47,272.07,1360.35,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+801,373,starter_motor_s,5,2023-10-03,02:14:10,953.22,4766.1,L,Electrical,WH01,AgriParts Co,Starter Motor
+802,337,belt_drive_m,10,2023-05-01,00:59:38,448.05,4480.5,S,Transmission,WH01,AgriParts Co,Drive Belt Medium
+803,143,belt_drive_m,3,2023-07-17,22:25:13,439.43,1318.29,M,Transmission,WH01,AgriParts Co,Drive Belt Medium
+804,310,blade_std_s,10,2023-10-12,05:30:09,997.25,9972.5,M,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+805,359,gearbox_hd_l,8,2023-07-22,06:34:59,1204.07,9632.56,S,Transmission,WH02,AgriParts Co,Heavy Duty Gearbox
+806,75,starter_motor_s,3,2023-07-06,18:03:24,1135.32,3405.96,M,Electrical,WH02,HarvestTech Ltd,Starter Motor
+807,339,chain_feed_l,3,2023-03-03,07:40:37,877.19,2631.57,M,Feeding System,WH01,FieldMachinery Inc,Feed Chain Assembly
+808,387,hyd_pump_l,1,2023-06-04,06:06:07,709.42,709.42,M,Hydraulic System,WH02,GreenAgro Supplies,Hydraulic Pump Large
+809,383,radiator_cool_m,4,2023-03-22,13:49:41,1033.18,4132.72,M,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+810,75,radiator_cool_m,7,2023-07-06,00:25:54,450.97,3156.79,M,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+811,272,engine_filter_m,2,2023-02-25,19:20:37,965.2,1930.4,M,Engine Components,WH03,FieldMachinery Inc,Engine Oil Filter
+812,172,belt_drive_m,5,2023-09-17,03:34:41,401.63,2008.15,L,Transmission,WH02,GreenAgro Supplies,Drive Belt Medium
+813,396,gearbox_hd_l,10,2023-02-23,07:05:49,791.93,7919.3,L,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+814,161,radiator_cool_m,1,2023-03-22,00:18:30,1251.74,1251.74,S,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+815,269,hyd_pump_l,8,2023-02-01,12:47:53,348.64,2789.12,M,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+816,18,engine_filter_m,10,2023-04-30,03:20:50,108.9,1089.0,L,Engine Components,WH03,HarvestTech Ltd,Engine Oil Filter
+817,307,hyd_pump_l,2,2023-05-27,03:08:42,1288.25,2576.5,S,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+818,57,blade_std_s,5,2023-11-18,10:43:29,713.76,3568.8,S,Cutting System,WH03,GreenAgro Supplies,Standard Cutting Blade
+819,142,bearing_axle_m,6,2023-02-02,09:22:09,263.9,1583.4,S,Chassis,WH02,AgriParts Co,Axle Bearing
+820,196,bearing_axle_m,6,2023-09-30,02:11:12,405.9,2435.4,M,Chassis,WH01,GreenAgro Supplies,Axle Bearing
+821,36,chain_feed_l,4,2023-06-24,22:13:13,604.14,2416.56,L,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+822,74,radiator_cool_m,7,2023-11-22,07:57:04,930.6,6514.2,S,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+823,53,engine_filter_m,2,2023-07-13,02:33:49,867.73,1735.46,M,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+824,255,blade_std_s,1,2023-04-08,01:22:39,1005.29,1005.29,M,Cutting System,WH01,FieldMachinery Inc,Standard Cutting Blade
+825,201,starter_motor_s,1,2023-10-09,18:45:52,1068.72,1068.72,M,Electrical,WH02,GreenAgro Supplies,Starter Motor
+826,207,hyd_pump_l,9,2023-04-19,08:13:22,29.88,268.92,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+827,291,radiator_cool_m,6,2023-01-08,12:08:24,1030.71,6184.26,M,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+828,188,radiator_cool_m,6,2023-05-03,02:55:45,1265.74,7594.44,M,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+829,91,radiator_cool_m,1,2023-03-25,13:59:13,999.58,999.58,M,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+830,55,sensor_temp_s,8,2023-10-10,03:05:23,1330.69,10645.52,M,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+831,72,engine_filter_m,4,2023-05-23,00:55:24,1086.62,4346.48,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+832,200,hyd_pump_l,9,2023-09-01,23:25:32,478.9,4310.1,L,Hydraulic System,WH02,AgriParts Co,Hydraulic Pump Large
+833,19,sensor_temp_s,1,2023-09-16,12:17:45,1186.97,1186.97,S,Electrical,WH02,AgriParts Co,Temperature Sensor
+834,109,radiator_cool_m,8,2023-10-18,19:32:08,244.71,1957.68,L,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+835,19,blade_std_s,8,2023-09-16,23:48:19,53.12,424.96,L,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+836,360,blade_std_s,1,2023-03-09,06:16:17,958.18,958.18,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+837,313,blade_std_s,10,2023-03-21,02:19:43,1231.26,12312.6,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+838,305,starter_motor_s,4,2023-05-16,02:17:51,1211.57,4846.28,M,Electrical,WH02,GreenAgro Supplies,Starter Motor
+839,167,hyd_pump_l,10,2023-09-17,19:52:30,227.56,2275.6,S,Hydraulic System,WH01,HarvestTech Ltd,Hydraulic Pump Large
+840,172,hyd_pump_l,2,2023-09-17,09:58:19,233.32,466.64,M,Hydraulic System,WH01,FieldMachinery Inc,Hydraulic Pump Large
+841,284,blade_std_s,8,2023-02-08,08:52:14,1390.37,11122.96,S,Cutting System,WH01,AgriParts Co,Standard Cutting Blade
+842,324,starter_motor_s,7,2023-10-27,05:44:37,48.05,336.35,M,Electrical,WH01,AgriParts Co,Starter Motor
+843,4,blade_std_s,2,2023-05-21,23:43:46,900.75,1801.5,M,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+844,355,blade_std_s,4,2023-12-09,05:12:34,968.74,3874.96,L,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+845,123,blade_std_s,10,2023-05-15,01:22:11,904.5,9045.0,L,Cutting System,WH02,AgriParts Co,Standard Cutting Blade
+846,322,belt_drive_m,6,2023-01-30,15:14:51,31.74,190.44,S,Transmission,WH01,AgriParts Co,Drive Belt Medium
+847,272,hyd_pump_l,10,2023-02-25,13:10:35,1297.53,12975.3,L,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+848,238,gearbox_hd_l,5,2023-01-17,01:55:55,310.74,1553.7,S,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+849,255,blade_std_s,3,2023-04-08,01:34:11,104.69,314.07,M,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+850,223,belt_drive_m,6,2023-02-02,22:27:27,1212.6,7275.6,M,Transmission,WH01,AgriParts Co,Drive Belt Medium
+851,380,engine_filter_m,9,2023-05-06,06:24:13,258.12,2323.08,S,Engine Components,WH02,AgriParts Co,Engine Oil Filter
+852,37,gearbox_hd_l,8,2023-05-23,21:34:47,880.15,7041.2,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+853,118,hyd_pump_l,6,2023-05-16,08:17:35,169.64,1017.84,L,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+854,193,gearbox_hd_l,2,2023-02-13,17:08:53,888.01,1776.02,S,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+855,111,starter_motor_s,8,2023-04-19,06:28:58,596.31,4770.48,S,Electrical,WH02,HarvestTech Ltd,Starter Motor
+856,324,sensor_temp_s,5,2023-10-27,07:21:44,520.44,2602.2,S,Electrical,WH03,AgriParts Co,Temperature Sensor
+857,144,blade_std_s,2,2023-07-15,16:56:58,701.4,1402.8,S,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+858,152,starter_motor_s,3,2023-02-28,23:13:43,1430.32,4290.96,S,Electrical,WH03,HarvestTech Ltd,Starter Motor
+859,45,bearing_axle_m,9,2023-07-03,17:48:42,1296.74,11670.66,S,Chassis,WH03,GreenAgro Supplies,Axle Bearing
+860,237,belt_drive_m,1,2023-02-04,15:35:13,1110.86,1110.86,S,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+861,223,starter_motor_s,4,2023-02-02,21:32:44,1420.72,5682.88,L,Electrical,WH01,GreenAgro Supplies,Starter Motor
+862,23,engine_filter_m,8,2023-04-12,18:21:28,74.59,596.72,L,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+863,357,hyd_pump_l,8,2023-05-03,18:01:58,379.75,3038.0,L,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+864,112,blade_std_s,6,2023-12-02,10:46:09,377.62,2265.72,S,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+865,343,belt_drive_m,3,2023-11-01,16:43:19,1290.44,3871.32,L,Transmission,WH03,AgriParts Co,Drive Belt Medium
+866,233,chain_feed_l,3,2023-12-29,14:45:31,297.79,893.37,M,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+867,361,engine_filter_m,2,2023-12-10,14:00:46,1342.82,2685.64,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+868,152,bearing_axle_m,5,2023-02-28,22:18:01,825.09,4125.45,S,Chassis,WH03,AgriParts Co,Axle Bearing
+869,318,sensor_temp_s,1,2023-10-24,18:44:27,1419.35,1419.35,L,Electrical,WH02,AgriParts Co,Temperature Sensor
+870,57,bearing_axle_m,6,2023-11-18,16:56:34,938.22,5629.32,M,Chassis,WH02,HarvestTech Ltd,Axle Bearing
+871,332,radiator_cool_m,2,2023-04-06,20:24:59,1071.27,2142.54,S,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+872,123,radiator_cool_m,2,2023-05-15,23:37:50,730.78,1461.56,L,Cooling System,WH03,HarvestTech Ltd,Radiator Cooling Unit
+873,386,gearbox_hd_l,6,2023-12-27,12:50:30,1349.45,8096.7,L,Transmission,WH03,GreenAgro Supplies,Heavy Duty Gearbox
+874,142,engine_filter_m,2,2023-02-02,13:34:25,534.21,1068.42,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+875,241,radiator_cool_m,9,2023-09-21,10:38:27,691.67,6225.03,M,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+876,97,chain_feed_l,2,2023-10-13,02:55:08,601.26,1202.52,S,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+877,56,blade_std_s,5,2023-05-31,04:04:43,1053.2,5266.0,M,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+878,267,engine_filter_m,5,2023-11-27,15:09:56,1455.12,7275.6,L,Engine Components,WH01,GreenAgro Supplies,Engine Oil Filter
+879,178,bearing_axle_m,8,2023-10-04,23:28:20,56.69,453.52,S,Chassis,WH01,AgriParts Co,Axle Bearing
+880,119,radiator_cool_m,6,2023-03-13,14:59:21,878.59,5271.54,L,Cooling System,WH03,FieldMachinery Inc,Radiator Cooling Unit
+881,249,starter_motor_s,9,2023-10-20,19:58:08,681.75,6135.75,M,Electrical,WH03,HarvestTech Ltd,Starter Motor
+882,157,blade_std_s,5,2023-06-24,08:15:24,739.26,3696.3,M,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+883,181,belt_drive_m,8,2023-11-03,06:03:25,937.48,7499.84,S,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+884,94,blade_std_s,3,2023-05-19,05:52:15,375.91,1127.73,S,Cutting System,WH02,HarvestTech Ltd,Standard Cutting Blade
+885,226,belt_drive_m,6,2023-10-29,06:43:02,327.6,1965.6,L,Transmission,WH01,FieldMachinery Inc,Drive Belt Medium
+886,177,blade_std_s,6,2023-03-24,16:19:36,821.3,4927.8,S,Cutting System,WH03,FieldMachinery Inc,Standard Cutting Blade
+887,63,engine_filter_m,7,2023-02-05,18:10:59,1158.56,8109.92,M,Engine Components,WH02,HarvestTech Ltd,Engine Oil Filter
+888,3,radiator_cool_m,9,2023-01-13,12:03:41,979.68,8817.12,M,Cooling System,WH02,FieldMachinery Inc,Radiator Cooling Unit
+889,387,starter_motor_s,3,2023-06-04,20:34:46,1099.6,3298.8,M,Electrical,WH02,AgriParts Co,Starter Motor
+890,375,chain_feed_l,1,2023-09-17,05:04:34,1025.06,1025.06,S,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+891,206,starter_motor_s,4,2023-08-05,16:14:14,552.16,2208.64,M,Electrical,WH01,HarvestTech Ltd,Starter Motor
+892,299,radiator_cool_m,4,2023-07-25,10:07:08,313.68,1254.72,S,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+893,347,hyd_pump_l,9,2023-08-03,14:21:37,311.81,2806.29,M,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+894,342,sensor_temp_s,7,2023-10-24,05:23:11,1081.05,7567.35,M,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+895,191,engine_filter_m,5,2023-10-18,12:33:29,543.25,2716.25,M,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+896,111,chain_feed_l,7,2023-04-19,16:06:39,450.74,3155.18,L,Feeding System,WH02,GreenAgro Supplies,Feed Chain Assembly
+897,72,starter_motor_s,10,2023-05-23,03:08:02,236.87,2368.7,M,Electrical,WH02,FieldMachinery Inc,Starter Motor
+898,34,starter_motor_s,7,2023-12-24,03:13:13,34.76,243.32,L,Electrical,WH02,GreenAgro Supplies,Starter Motor
+899,90,radiator_cool_m,8,2023-05-06,20:40:37,1138.98,9111.84,S,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+900,196,belt_drive_m,9,2023-09-30,17:51:42,87.29,785.61,M,Transmission,WH03,FieldMachinery Inc,Drive Belt Medium
+901,253,radiator_cool_m,8,2023-08-31,08:10:28,64.59,516.72,S,Cooling System,WH01,FieldMachinery Inc,Radiator Cooling Unit
+902,154,chain_feed_l,2,2023-10-02,23:48:16,1007.22,2014.44,M,Feeding System,WH02,HarvestTech Ltd,Feed Chain Assembly
+903,252,gearbox_hd_l,1,2023-05-05,04:20:44,1152.96,1152.96,M,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+904,298,chain_feed_l,10,2023-04-20,15:52:36,1305.81,13058.1,L,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+905,356,hyd_pump_l,6,2023-06-10,18:39:37,1106.11,6636.66,S,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+906,298,engine_filter_m,3,2023-04-20,11:38:21,705.04,2115.12,L,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+907,84,engine_filter_m,5,2023-11-28,13:08:58,643.78,3218.9,M,Engine Components,WH01,FieldMachinery Inc,Engine Oil Filter
+908,150,radiator_cool_m,2,2023-01-06,18:42:33,310.88,621.76,L,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
+909,307,blade_std_s,9,2023-05-27,11:44:44,1311.85,11806.65,L,Cutting System,WH02,FieldMachinery Inc,Standard Cutting Blade
+910,351,sensor_temp_s,2,2023-09-25,19:27:27,880.57,1761.14,S,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+911,266,belt_drive_m,6,2023-12-01,17:39:16,632.69,3796.14,S,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+912,80,radiator_cool_m,4,2023-12-10,06:51:36,1197.78,4791.12,L,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+913,214,chain_feed_l,2,2023-12-10,04:14:38,1232.8,2465.6,S,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+914,160,sensor_temp_s,3,2023-08-11,16:05:25,1337.35,4012.05,L,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+915,89,belt_drive_m,1,2023-10-01,04:19:04,352.98,352.98,L,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+916,158,blade_std_s,4,2023-02-27,04:44:27,1472.14,5888.56,M,Cutting System,WH03,AgriParts Co,Standard Cutting Blade
+917,40,engine_filter_m,8,2023-06-22,15:42:04,87.71,701.68,S,Engine Components,WH01,AgriParts Co,Engine Oil Filter
+918,241,hyd_pump_l,5,2023-09-21,01:34:32,122.71,613.55,L,Hydraulic System,WH01,AgriParts Co,Hydraulic Pump Large
+919,64,starter_motor_s,4,2023-01-24,21:23:38,1354.23,5416.92,S,Electrical,WH03,FieldMachinery Inc,Starter Motor
+920,15,hyd_pump_l,3,2023-01-16,10:05:56,1424.47,4273.41,M,Hydraulic System,WH02,HarvestTech Ltd,Hydraulic Pump Large
+921,257,starter_motor_s,4,2023-02-19,18:22:59,866.1,3464.4,S,Electrical,WH03,AgriParts Co,Starter Motor
+922,271,gearbox_hd_l,4,2023-06-23,10:15:43,278.37,1113.48,L,Transmission,WH01,AgriParts Co,Heavy Duty Gearbox
+923,110,radiator_cool_m,8,2023-06-11,13:20:33,1054.75,8438.0,S,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+924,93,sensor_temp_s,7,2023-07-14,15:26:26,341.05,2387.35,S,Electrical,WH02,AgriParts Co,Temperature Sensor
+925,390,sensor_temp_s,2,2023-09-28,16:57:46,187.72,375.44,S,Electrical,WH02,FieldMachinery Inc,Temperature Sensor
+926,361,belt_drive_m,9,2023-12-10,01:28:42,146.32,1316.88,M,Transmission,WH01,GreenAgro Supplies,Drive Belt Medium
+927,146,chain_feed_l,10,2023-08-28,11:21:35,1038.39,10383.9,M,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+928,149,bearing_axle_m,4,2023-10-11,02:32:03,1344.76,5379.04,M,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+929,92,engine_filter_m,8,2023-08-25,03:49:45,609.65,4877.2,L,Engine Components,WH03,AgriParts Co,Engine Oil Filter
+930,62,blade_std_s,7,2023-12-27,14:35:10,1050.18,7351.26,S,Cutting System,WH03,HarvestTech Ltd,Standard Cutting Blade
+931,34,sensor_temp_s,4,2023-12-24,12:19:45,320.39,1281.56,M,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+932,218,chain_feed_l,5,2023-09-22,21:11:13,900.63,4503.15,L,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+933,244,starter_motor_s,7,2023-12-09,17:38:28,779.34,5455.38,S,Electrical,WH02,AgriParts Co,Starter Motor
+934,63,belt_drive_m,8,2023-02-05,18:06:18,365.46,2923.68,S,Transmission,WH01,AgriParts Co,Drive Belt Medium
+935,378,engine_filter_m,2,2023-06-28,18:08:11,1025.21,2050.42,S,Engine Components,WH02,FieldMachinery Inc,Engine Oil Filter
+936,79,belt_drive_m,10,2023-04-18,22:41:28,167.09,1670.9,S,Transmission,WH03,GreenAgro Supplies,Drive Belt Medium
+937,239,gearbox_hd_l,5,2023-06-19,18:07:40,748.12,3740.6,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+938,277,radiator_cool_m,1,2023-08-18,01:09:01,1486.3,1486.3,S,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+939,162,bearing_axle_m,8,2023-08-21,16:44:08,78.07,624.56,S,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+940,362,blade_std_s,8,2023-11-27,15:40:50,223.37,1786.96,L,Cutting System,WH02,GreenAgro Supplies,Standard Cutting Blade
+941,392,hyd_pump_l,10,2023-12-08,17:51:37,998.62,9986.2,L,Hydraulic System,WH03,GreenAgro Supplies,Hydraulic Pump Large
+942,244,radiator_cool_m,3,2023-12-09,18:26:52,107.21,321.63,M,Cooling System,WH02,GreenAgro Supplies,Radiator Cooling Unit
+943,316,sensor_temp_s,5,2023-04-22,11:40:06,115.6,578.0,L,Electrical,WH01,HarvestTech Ltd,Temperature Sensor
+944,188,sensor_temp_s,10,2023-05-03,00:58:45,1153.66,11536.6,L,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+945,50,bearing_axle_m,6,2023-08-24,13:00:40,632.6,3795.6,S,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+946,127,gearbox_hd_l,5,2023-07-24,21:34:24,150.29,751.45,L,Transmission,WH01,FieldMachinery Inc,Heavy Duty Gearbox
+947,59,sensor_temp_s,3,2023-07-05,00:43:03,819.16,2457.48,S,Electrical,WH02,GreenAgro Supplies,Temperature Sensor
+948,291,radiator_cool_m,7,2023-01-08,09:42:26,55.09,385.63,M,Cooling System,WH03,AgriParts Co,Radiator Cooling Unit
+949,163,bearing_axle_m,10,2023-01-02,14:12:37,500.57,5005.7,S,Chassis,WH02,AgriParts Co,Axle Bearing
+950,354,gearbox_hd_l,6,2023-04-15,18:05:07,766.58,4599.48,L,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+951,315,belt_drive_m,6,2023-06-01,15:52:26,322.59,1935.54,L,Transmission,WH01,HarvestTech Ltd,Drive Belt Medium
+952,148,belt_drive_m,1,2023-05-09,10:49:30,1494.44,1494.44,M,Transmission,WH01,AgriParts Co,Drive Belt Medium
+953,368,starter_motor_s,2,2023-08-23,21:32:56,521.84,1043.68,S,Electrical,WH03,GreenAgro Supplies,Starter Motor
+954,219,gearbox_hd_l,6,2023-08-20,02:47:28,986.02,5916.12,M,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+955,222,radiator_cool_m,6,2023-04-26,07:17:04,636.11,3816.66,M,Cooling System,WH03,GreenAgro Supplies,Radiator Cooling Unit
+956,344,radiator_cool_m,3,2023-01-21,00:40:38,951.07,2853.21,L,Cooling System,WH01,GreenAgro Supplies,Radiator Cooling Unit
+957,110,chain_feed_l,5,2023-06-11,23:13:34,810.76,4053.8,L,Feeding System,WH02,AgriParts Co,Feed Chain Assembly
+958,268,gearbox_hd_l,6,2023-02-20,16:50:19,242.92,1457.52,S,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+959,223,bearing_axle_m,6,2023-02-02,02:20:44,960.04,5760.24,M,Chassis,WH02,FieldMachinery Inc,Axle Bearing
+960,331,blade_std_s,5,2023-02-11,21:53:24,373.29,1866.45,S,Cutting System,WH01,HarvestTech Ltd,Standard Cutting Blade
+961,99,engine_filter_m,4,2023-12-17,11:18:23,709.64,2838.56,L,Engine Components,WH02,GreenAgro Supplies,Engine Oil Filter
+962,332,engine_filter_m,4,2023-04-06,05:48:07,427.25,1709.0,S,Engine Components,WH02,FieldMachinery Inc,Engine Oil Filter
+963,338,radiator_cool_m,3,2023-07-26,23:27:28,1282.47,3847.41,L,Cooling System,WH02,AgriParts Co,Radiator Cooling Unit
+964,29,hyd_pump_l,6,2023-08-18,21:54:12,464.52,2787.12,S,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+965,344,hyd_pump_l,7,2023-01-21,05:07:03,373.16,2612.12,L,Hydraulic System,WH03,AgriParts Co,Hydraulic Pump Large
+966,268,starter_motor_s,9,2023-02-20,09:10:04,757.27,6815.43,S,Electrical,WH01,AgriParts Co,Starter Motor
+967,396,sensor_temp_s,6,2023-02-23,21:16:28,1112.42,6674.52,L,Electrical,WH03,HarvestTech Ltd,Temperature Sensor
+968,217,gearbox_hd_l,3,2023-08-13,03:53:20,283.35,850.05,M,Transmission,WH02,GreenAgro Supplies,Heavy Duty Gearbox
+969,131,starter_motor_s,1,2023-09-18,17:51:12,811.87,811.87,L,Electrical,WH01,FieldMachinery Inc,Starter Motor
+970,280,bearing_axle_m,8,2023-04-04,08:58:09,1445.89,11567.12,S,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+971,367,sensor_temp_s,5,2023-01-05,00:46:02,976.96,4884.8,L,Electrical,WH01,AgriParts Co,Temperature Sensor
+972,354,gearbox_hd_l,5,2023-04-15,20:07:27,592.42,2962.1,L,Transmission,WH03,FieldMachinery Inc,Heavy Duty Gearbox
+973,351,hyd_pump_l,9,2023-09-25,08:36:23,1290.03,11610.27,M,Hydraulic System,WH01,GreenAgro Supplies,Hydraulic Pump Large
+974,131,belt_drive_m,2,2023-09-18,08:34:22,463.7,927.4,S,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+975,393,bearing_axle_m,1,2023-10-11,09:58:38,1303.01,1303.01,M,Chassis,WH02,GreenAgro Supplies,Axle Bearing
+976,171,bearing_axle_m,2,2023-11-24,05:50:16,1055.26,2110.52,L,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+977,216,starter_motor_s,9,2023-07-11,11:53:50,693.56,6242.04,S,Electrical,WH01,HarvestTech Ltd,Starter Motor
+978,323,chain_feed_l,3,2023-01-26,00:06:43,615.98,1847.94,L,Feeding System,WH02,FieldMachinery Inc,Feed Chain Assembly
+979,295,hyd_pump_l,2,2023-07-28,05:44:46,393.17,786.34,L,Hydraulic System,WH03,HarvestTech Ltd,Hydraulic Pump Large
+980,305,bearing_axle_m,6,2023-05-16,16:26:17,730.59,4383.54,L,Chassis,WH01,FieldMachinery Inc,Axle Bearing
+981,89,starter_motor_s,6,2023-10-01,10:15:35,318.03,1908.18,M,Electrical,WH02,HarvestTech Ltd,Starter Motor
+982,202,bearing_axle_m,10,2023-03-26,08:10:23,55.58,555.8,S,Chassis,WH03,HarvestTech Ltd,Axle Bearing
+983,46,chain_feed_l,4,2023-06-26,09:31:52,1059.36,4237.44,S,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+984,317,bearing_axle_m,10,2023-01-30,09:28:19,245.15,2451.5,M,Chassis,WH01,AgriParts Co,Axle Bearing
+985,8,radiator_cool_m,7,2023-02-22,16:31:08,1245.2,8716.4,M,Cooling System,WH01,HarvestTech Ltd,Radiator Cooling Unit
+986,366,gearbox_hd_l,4,2023-02-07,09:41:31,449.74,1798.96,M,Transmission,WH02,HarvestTech Ltd,Heavy Duty Gearbox
+987,221,gearbox_hd_l,10,2023-05-07,07:50:54,1492.93,14929.3,M,Transmission,WH03,HarvestTech Ltd,Heavy Duty Gearbox
+988,215,blade_std_s,7,2023-11-29,05:18:49,67.44,472.08,M,Cutting System,WH01,GreenAgro Supplies,Standard Cutting Blade
+989,128,sensor_temp_s,10,2023-07-05,23:33:54,700.79,7007.9,S,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+990,166,bearing_axle_m,4,2023-04-02,13:57:45,1069.97,4279.88,L,Chassis,WH03,FieldMachinery Inc,Axle Bearing
+991,38,hyd_pump_l,9,2023-03-21,02:08:20,101.87,916.83,S,Hydraulic System,WH02,FieldMachinery Inc,Hydraulic Pump Large
+992,311,starter_motor_s,1,2023-12-05,00:11:42,399.14,399.14,L,Electrical,WH02,FieldMachinery Inc,Starter Motor
+993,203,sensor_temp_s,3,2023-05-16,20:22:22,85.66,256.98,S,Electrical,WH02,HarvestTech Ltd,Temperature Sensor
+994,258,chain_feed_l,6,2023-12-04,17:02:32,219.58,1317.48,M,Feeding System,WH03,GreenAgro Supplies,Feed Chain Assembly
+995,73,belt_drive_m,2,2023-08-21,11:24:20,90.14,180.28,S,Transmission,WH02,FieldMachinery Inc,Drive Belt Medium
+996,383,sensor_temp_s,7,2023-03-22,10:18:03,1356.62,9496.34,M,Electrical,WH03,FieldMachinery Inc,Temperature Sensor
+997,265,sensor_temp_s,7,2023-12-11,06:00:24,490.43,3433.01,M,Electrical,WH01,GreenAgro Supplies,Temperature Sensor
+998,28,gearbox_hd_l,3,2023-04-23,01:59:12,364.04,1092.12,S,Transmission,WH02,FieldMachinery Inc,Heavy Duty Gearbox
+999,84,chain_feed_l,7,2023-11-28,04:13:27,1492.92,10450.44,M,Feeding System,WH01,GreenAgro Supplies,Feed Chain Assembly
+1000,183,radiator_cool_m,8,2023-09-08,16:39:59,752.16,6017.28,L,Cooling System,WH01,AgriParts Co,Radiator Cooling Unit
